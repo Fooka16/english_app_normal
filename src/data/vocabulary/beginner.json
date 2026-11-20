@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "vocab_b_001",
+    "word": "always",
+    "meaning": "いつも",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I always bring water.",
+    "exampleJapanese": "いつも水を持っていく。",
+    "choices": [
+      "いつも",
+      "めったに",
+      "あとで"
+    ]
+  },
+  {
+    "id": "vocab_b_002",
+    "word": "already",
+    "meaning": "もうすでに",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I already ate.",
+    "exampleJapanese": "もう食べた。",
+    "choices": [
+      "もうすでに",
+      "まだこれから",
+      "決して"
+    ]
+  },
+  {
+    "id": "vocab_b_003",
+    "word": "again",
+    "meaning": "もう一度",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "Let's try again.",
+    "exampleJapanese": "もう一度やってみよう。",
+    "choices": [
+      "もう一度",
+      "初めて",
+      "最後に"
+    ]
+  },
+  {
+    "id": "vocab_b_004",
+    "word": "together",
+    "meaning": "一緒に",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "Let's go together.",
+    "exampleJapanese": "一緒に行こう。",
+    "choices": [
+      "一緒に",
+      "別々に",
+      "静かに"
+    ]
+  },
+  {
+    "id": "vocab_b_005",
+    "word": "alone",
+    "meaning": "ひとりで",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I came alone.",
+    "exampleJapanese": "ひとりで来た。",
+    "choices": [
+      "ひとりで",
+      "大勢で",
+      "急いで"
+    ]
+  },
+  {
+    "id": "vocab_b_006",
+    "word": "maybe",
+    "meaning": "たぶん",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "Maybe tomorrow.",
+    "exampleJapanese": "たぶん明日。",
+    "choices": [
+      "たぶん",
+      "絶対に",
+      "残念ながら"
+    ]
+  },
+  {
+    "id": "vocab_b_007",
+    "word": "really",
+    "meaning": "本当に",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I'm really tired.",
+    "exampleJapanese": "本当に疲れた。",
+    "choices": [
+      "本当に",
+      "少しだけ",
+      "たまに"
+    ]
+  },
+  {
+    "id": "vocab_b_008",
+    "word": "soon",
+    "meaning": "もうすぐ",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I'll be there soon.",
+    "exampleJapanese": "もうすぐ着く。",
+    "choices": [
+      "もうすぐ",
+      "ずっと前に",
+      "めったに"
+    ]
+  },
+  {
+    "id": "vocab_b_009",
+    "word": "later",
+    "meaning": "あとで",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "Let's talk later.",
+    "exampleJapanese": "あとで話そう。",
+    "choices": [
+      "あとで",
+      "今すぐ",
+      "昨日"
+    ]
+  },
+  {
+    "id": "vocab_b_010",
+    "word": "early",
+    "meaning": "時刻が早い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "You're early today.",
+    "exampleJapanese": "今日は早いね。",
+    "choices": [
+      "時刻が早い",
+      "遅れた",
+      "眠い"
+    ]
+  },
+  {
+    "id": "vocab_b_011",
+    "word": "busy",
+    "meaning": "忙しい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm busy today.",
+    "exampleJapanese": "今日は忙しい。",
+    "choices": [
+      "忙しい",
+      "暇だ",
+      "空腹だ"
+    ]
+  },
+  {
+    "id": "vocab_b_012",
+    "word": "hungry",
+    "meaning": "お腹が空いている",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm hungry.",
+    "exampleJapanese": "お腹が空いた。",
+    "choices": [
+      "お腹が空いている",
+      "お腹がいっぱいだ",
+      "怒っている"
+    ]
+  },
+  {
+    "id": "vocab_b_013",
+    "word": "happy",
+    "meaning": "うれしい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm happy for you.",
+    "exampleJapanese": "君のことをうれしく思う。",
+    "choices": [
+      "うれしい",
+      "悲しい",
+      "退屈な"
+    ]
+  },
+  {
+    "id": "vocab_b_014",
+    "word": "sad",
+    "meaning": "悲しい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "That movie was sad.",
+    "exampleJapanese": "あの映画は悲しかった。",
+    "choices": [
+      "悲しい",
+      "おもしろい",
+      "簡単だ"
+    ]
+  },
+  {
+    "id": "vocab_b_015",
+    "word": "angry",
+    "meaning": "怒っている",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "Don't be angry.",
+    "exampleJapanese": "怒らないで。",
+    "choices": [
+      "怒っている",
+      "喜んでいる",
+      "眠っている"
+    ]
+  },
+  {
+    "id": "vocab_b_016",
+    "word": "cute",
+    "meaning": "かわいい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "Your bag is cute.",
+    "exampleJapanese": "そのかばん、かわいい。",
+    "choices": [
+      "かわいい",
+      "こわい",
+      "苦い"
+    ]
+  },
+  {
+    "id": "vocab_b_017",
+    "word": "sorry",
+    "meaning": "申し訳ない",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm sorry about that.",
+    "exampleJapanese": "それはごめん。",
+    "choices": [
+      "申し訳ない",
+      "得意だ",
+      "準備できた"
+    ]
+  },
+  {
+    "id": "vocab_b_018",
+    "word": "please",
+    "meaning": "お願い",
+    "partOfSpeech": "感動詞",
+    "level": "beginner",
+    "example": "Please sit down.",
+    "exampleJapanese": "座ってください。",
+    "choices": [
+      "お願い",
+      "おめでとう",
+      "どういたしまして"
+    ]
+  },
+  {
+    "id": "vocab_b_019",
+    "word": "friend",
+    "meaning": "友達",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "She is my friend.",
+    "exampleJapanese": "彼女は友達だ。",
+    "choices": [
+      "友達",
+      "先生",
+      "家族"
+    ]
+  },
+  {
+    "id": "vocab_b_020",
+    "word": "tomorrow",
+    "meaning": "明日",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "See you tomorrow.",
+    "exampleJapanese": "また明日。",
+    "choices": [
+      "明日",
+      "昨日",
+      "来年"
+    ]
+  },
+  {
+    "id": "vocab_b_021",
+    "word": "yesterday",
+    "meaning": "昨日",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I saw him yesterday.",
+    "exampleJapanese": "昨日彼に会った。",
+    "choices": [
+      "昨日",
+      "明日",
+      "今夜"
+    ]
+  },
+  {
+    "id": "vocab_b_022",
+    "word": "morning",
+    "meaning": "朝",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I run in the morning.",
+    "exampleJapanese": "朝に走る。",
+    "choices": [
+      "朝",
+      "夜",
+      "週末"
+    ]
+  },
+  {
+    "id": "vocab_b_023",
+    "word": "tonight",
+    "meaning": "今夜",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "Are you free tonight?",
+    "exampleJapanese": "今夜空いてる？",
+    "choices": [
+      "今夜",
+      "今朝",
+      "去年"
+    ]
+  },
+  {
+    "id": "vocab_b_024",
+    "word": "home",
+    "meaning": "家",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I'm going home.",
+    "exampleJapanese": "家に帰る。",
+    "choices": [
+      "家",
+      "学校",
+      "駅"
+    ]
+  },
+  {
+    "id": "vocab_b_025",
+    "word": "school",
+    "meaning": "学校",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "School starts at eight.",
+    "exampleJapanese": "学校は8時に始まる。",
+    "choices": [
+      "学校",
+      "病院",
+      "銀行"
+    ]
+  },
+  {
+    "id": "vocab_b_026",
+    "word": "money",
+    "meaning": "お金",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I don't have money.",
+    "exampleJapanese": "お金がない。",
+    "choices": [
+      "お金",
+      "時間",
+      "切符"
+    ]
+  },
+  {
+    "id": "vocab_b_027",
+    "word": "water",
+    "meaning": "水",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "Can I have some water?",
+    "exampleJapanese": "水をもらえる？",
+    "choices": [
+      "水",
+      "お茶",
+      "牛乳"
+    ]
+  },
+  {
+    "id": "vocab_b_028",
+    "word": "food",
+    "meaning": "食べ物",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "The food was great.",
+    "exampleJapanese": "食べ物がおいしかった。",
+    "choices": [
+      "食べ物",
+      "飲み物",
+      "服"
+    ]
+  },
+  {
+    "id": "vocab_b_029",
+    "word": "coffee",
+    "meaning": "コーヒー",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I need coffee.",
+    "exampleJapanese": "コーヒーが必要だ。",
+    "choices": [
+      "コーヒー",
+      "紅茶",
+      "ジュース"
+    ]
+  },
+  {
+    "id": "vocab_b_030",
+    "word": "buy",
+    "meaning": "買う",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I'll buy this one.",
+    "exampleJapanese": "これを買う。",
+    "choices": [
+      "買う",
+      "売る",
+      "借りる"
+    ]
+  },
+  {
+    "id": "vocab_b_031",
+    "word": "wait",
+    "meaning": "待つ",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Please wait here.",
+    "exampleJapanese": "ここで待っていて。",
+    "choices": [
+      "待つ",
+      "走る",
+      "隠す"
+    ]
+  },
+  {
+    "id": "vocab_b_032",
+    "word": "meet",
+    "meaning": "会う",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Let's meet at noon.",
+    "exampleJapanese": "正午に会おう。",
+    "choices": [
+      "会う",
+      "別れる",
+      "競争する"
+    ]
+  },
+  {
+    "id": "vocab_b_033",
+    "word": "help",
+    "meaning": "手伝う",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Can you help me?",
+    "exampleJapanese": "手伝ってくれる？",
+    "choices": [
+      "手伝う",
+      "邪魔する",
+      "叱る"
+    ]
+  },
+  {
+    "id": "vocab_b_034",
+    "word": "listen",
+    "meaning": "耳で聞く",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Listen to this song.",
+    "exampleJapanese": "この曲を聞いて。",
+    "choices": [
+      "耳で聞く",
+      "話す",
+      "書く"
+    ]
+  },
+  {
+    "id": "vocab_b_035",
+    "word": "bring",
+    "meaning": "持ってくる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Bring your charger.",
+    "exampleJapanese": "充電器を持ってきて。",
+    "choices": [
+      "持ってくる",
+      "置いていく",
+      "壊す"
+    ]
+  },
+  {
+    "id": "vocab_b_036",
+    "word": "forget",
+    "meaning": "忘れる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Don't forget your key.",
+    "exampleJapanese": "鍵を忘れないで。",
+    "choices": [
+      "忘れる",
+      "覚えている",
+      "見つける"
+    ]
+  },
+  {
+    "id": "vocab_b_037",
+    "word": "remember",
+    "meaning": "覚えている",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I remember your name.",
+    "exampleJapanese": "名前は覚えている。",
+    "choices": [
+      "覚えている",
+      "忘れる",
+      "疑う"
+    ]
+  },
+  {
+    "id": "vocab_b_038",
+    "word": "start",
+    "meaning": "始める",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Let's start now.",
+    "exampleJapanese": "今始めよう。",
+    "choices": [
+      "始める",
+      "終える",
+      "延期する"
+    ]
+  },
+  {
+    "id": "vocab_b_039",
+    "word": "finish",
+    "meaning": "終える",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I finished my lunch.",
+    "exampleJapanese": "昼食を終えた。",
+    "choices": [
+      "終える",
+      "始める",
+      "注文する"
+    ]
+  },
+  {
+    "id": "vocab_b_040",
+    "word": "stay",
+    "meaning": "とどまる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I'll stay home.",
+    "exampleJapanese": "家にとどまる。",
+    "choices": [
+      "とどまる",
+      "出発する",
+      "転ぶ"
+    ]
+  },
+  {
+    "id": "vocab_b_041",
+    "word": "need",
+    "meaning": "必要だ",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I need a break.",
+    "exampleJapanese": "休憩が必要だ。",
+    "choices": [
+      "必要だ",
+      "拒否する",
+      "自慢する"
+    ]
+  },
+  {
+    "id": "vocab_b_042",
+    "word": "want",
+    "meaning": "ほしい",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I want some tea.",
+    "exampleJapanese": "お茶がほしい。",
+    "choices": [
+      "ほしい",
+      "嫌う",
+      "貸す"
+    ]
+  },
+  {
+    "id": "vocab_b_043",
+    "word": "love",
+    "meaning": "大好きだ",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I love this song.",
+    "exampleJapanese": "この曲が大好き。",
+    "choices": [
+      "大好きだ",
+      "憎む",
+      "失う"
+    ]
+  },
+  {
+    "id": "vocab_b_044",
+    "word": "think",
+    "meaning": "思う",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I think it's fine.",
+    "exampleJapanese": "大丈夫だと思う。",
+    "choices": [
+      "思う",
+      "約束する",
+      "測定する"
+    ]
+  },
+  {
+    "id": "vocab_b_045",
+    "word": "know",
+    "meaning": "知っている",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I know that place.",
+    "exampleJapanese": "その場所は知っている。",
+    "choices": [
+      "知っている",
+      "誤解する",
+      "翻訳する"
+    ]
+  },
+  {
+    "id": "vocab_b_046",
+    "word": "understand",
+    "meaning": "わかる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I don't understand.",
+    "exampleJapanese": "よくわからない。",
+    "choices": [
+      "わかる",
+      "否定する",
+      "出版する"
+    ]
+  },
+  {
+    "id": "vocab_b_047",
+    "word": "believe",
+    "meaning": "信じている",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I believe you.",
+    "exampleJapanese": "君を信じている。",
+    "choices": [
+      "信じている",
+      "疑う",
+      "罰する"
+    ]
+  },
+  {
+    "id": "vocab_b_048",
+    "word": "hope",
+    "meaning": "だといいなと思う",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I hope it stops raining.",
+    "exampleJapanese": "雨がやむといいな。",
+    "choices": [
+      "だといいなと思う",
+      "諦める",
+      "命令する"
+    ]
+  },
+  {
+    "id": "vocab_b_049",
+    "word": "try",
+    "meaning": "やってみる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I'll try again.",
+    "exampleJapanese": "もう一度やってみる。",
+    "choices": [
+      "やってみる",
+      "諦める",
+      "隠す"
+    ]
+  },
+  {
+    "id": "vocab_b_050",
+    "word": "stop",
+    "meaning": "やめる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Please stop there.",
+    "exampleJapanese": "そこでやめて。",
+    "choices": [
+      "やめる",
+      "続ける",
+      "加速する"
+    ]
+  },
+  {
+    "id": "vocab_b_051",
+    "word": "choose",
+    "meaning": "選ぶ",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "You choose the movie.",
+    "exampleJapanese": "映画は君が選んで。",
+    "choices": [
+      "選ぶ",
+      "拒否する",
+      "壊す"
+    ]
+  },
+  {
+    "id": "vocab_b_052",
+    "word": "decide",
+    "meaning": "決める",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I can't decide.",
+    "exampleJapanese": "決められない。",
+    "choices": [
+      "決める",
+      "迷わせる",
+      "遅らせる"
+    ]
+  },
+  {
+    "id": "vocab_b_053",
+    "word": "happen",
+    "meaning": "起こる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "What happened?",
+    "exampleJapanese": "何が起きたの？",
+    "choices": [
+      "起こる",
+      "計画する",
+      "修理する"
+    ]
+  },
+  {
+    "id": "vocab_b_054",
+    "word": "become",
+    "meaning": "〜になる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "It will become cold.",
+    "exampleJapanese": "寒くなる。",
+    "choices": [
+      "〜になる",
+      "残る",
+      "比較する"
+    ]
+  },
+  {
+    "id": "vocab_b_055",
+    "word": "feel",
+    "meaning": "感じる",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I feel better now.",
+    "exampleJapanese": "もう気分がいい。",
+    "choices": [
+      "感じる",
+      "計算する",
+      "配達する"
+    ]
+  },
+  {
+    "id": "vocab_b_056",
+    "word": "seem",
+    "meaning": "〜みたいだ",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "You seem tired.",
+    "exampleJapanese": "疲れてるみたい。",
+    "choices": [
+      "〜みたいだ",
+      "所属する",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_b_057",
+    "word": "enough",
+    "meaning": "十分な",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "That's enough.",
+    "exampleJapanese": "もう十分だよ。",
+    "choices": [
+      "十分な",
+      "不足した",
+      "違法な"
+    ]
+  },
+  {
+    "id": "vocab_b_058",
+    "word": "usually",
+    "meaning": "普段は",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I usually walk.",
+    "exampleJapanese": "普段は歩く。",
+    "choices": [
+      "普段は",
+      "めったに",
+      "偶然"
+    ]
+  },
+  {
+    "id": "vocab_b_059",
+    "word": "sometimes",
+    "meaning": "ときどき",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I sometimes cook.",
+    "exampleJapanese": "ときどき料理する。",
+    "choices": [
+      "ときどき",
+      "いつも",
+      "二度と"
+    ]
+  },
+  {
+    "id": "vocab_b_060",
+    "word": "never",
+    "meaning": "一度も〜ない",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I never skip breakfast.",
+    "exampleJapanese": "朝ごはんは一度も抜かない。",
+    "choices": [
+      "一度も〜ない",
+      "いつも",
+      "すぐに"
+    ]
+  },
+  {
+    "id": "vocab_b_061",
+    "word": "often",
+    "meaning": "よく",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I often see her at school.",
+    "exampleJapanese": "学校で彼女をよく見かける。",
+    "choices": [
+      "よく",
+      "めったに",
+      "一度だけ"
+    ]
+  },
+  {
+    "id": "vocab_b_062",
+    "word": "before",
+    "meaning": "〜より前に",
+    "partOfSpeech": "前置詞",
+    "level": "beginner",
+    "example": "Wash your hands before lunch.",
+    "exampleJapanese": "昼の前に手を洗って。",
+    "choices": [
+      "〜より前に",
+      "〜のあとで",
+      "〜の中で"
+    ]
+  },
+  {
+    "id": "vocab_b_063",
+    "word": "after",
+    "meaning": "〜のあとで",
+    "partOfSpeech": "前置詞",
+    "level": "beginner",
+    "example": "Call me after class.",
+    "exampleJapanese": "授業のあとで電話して。",
+    "choices": [
+      "〜のあとで",
+      "〜の前に",
+      "〜なしで"
+    ]
+  },
+  {
+    "id": "vocab_b_064",
+    "word": "birthday",
+    "meaning": "誕生日",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "Happy birthday!",
+    "exampleJapanese": "誕生日おめでとう。",
+    "choices": [
+      "誕生日",
+      "卒業式",
+      "給料日"
+    ]
+  },
+  {
+    "id": "vocab_b_065",
+    "word": "weather",
+    "meaning": "天気",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "The weather is nice.",
+    "exampleJapanese": "天気がいい。",
+    "choices": [
+      "天気",
+      "気分",
+      "交通"
+    ]
+  },
+  {
+    "id": "vocab_b_066",
+    "word": "movie",
+    "meaning": "映画",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "That movie was long.",
+    "exampleJapanese": "あの映画は長かった。",
+    "choices": [
+      "映画",
+      "小説",
+      "試合"
+    ]
+  },
+  {
+    "id": "vocab_b_067",
+    "word": "music",
+    "meaning": "音楽",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I study with music.",
+    "exampleJapanese": "音楽を聴きながら勉強する。",
+    "choices": [
+      "音楽",
+      "沈黙",
+      "絵画"
+    ]
+  },
+  {
+    "id": "vocab_b_068",
+    "word": "delicious",
+    "meaning": "おいしい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This cake is delicious.",
+    "exampleJapanese": "このケーキはおいしい。",
+    "choices": [
+      "おいしい",
+      "まずい",
+      "高い"
+    ]
+  },
+  {
+    "id": "vocab_b_069",
+    "word": "cheap",
+    "meaning": "値段が安い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This shirt is cheap.",
+    "exampleJapanese": "このシャツは安い。",
+    "choices": [
+      "値段が安い",
+      "値段が高い",
+      "サイズが大きい"
+    ]
+  },
+  {
+    "id": "vocab_b_070",
+    "word": "expensive",
+    "meaning": "値段が高い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "That bag is expensive.",
+    "exampleJapanese": "そのかばんは高い。",
+    "choices": [
+      "値段が高い",
+      "値段が安い",
+      "とても軽い"
+    ]
+  },
+  {
+    "id": "vocab_b_071",
+    "word": "near",
+    "meaning": "近い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "The station is near.",
+    "exampleJapanese": "駅は近い。",
+    "choices": [
+      "近い",
+      "遠い",
+      "混んでいる"
+    ]
+  },
+  {
+    "id": "vocab_b_072",
+    "word": "far",
+    "meaning": "遠い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "Is it far from here?",
+    "exampleJapanese": "ここから遠い？",
+    "choices": [
+      "遠い",
+      "近い",
+      "無料だ"
+    ]
+  },
+  {
+    "id": "vocab_b_073",
+    "word": "fast",
+    "meaning": "スピードが速い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This train is fast.",
+    "exampleJapanese": "この電車は速い。",
+    "choices": [
+      "スピードが速い",
+      "遅い",
+      "満席だ"
+    ]
+  },
+  {
+    "id": "vocab_b_074",
+    "word": "slow",
+    "meaning": "スピードが遅い",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This bus is slow.",
+    "exampleJapanese": "このバスは遅い。",
+    "choices": [
+      "スピードが遅い",
+      "速い",
+      "無料だ"
+    ]
+  },
+  {
+    "id": "vocab_b_075",
+    "word": "easy",
+    "meaning": "かんたんな",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This game is easy.",
+    "exampleJapanese": "このゲームはかんたんだ。",
+    "choices": [
+      "かんたんな",
+      "難しい",
+      "危険な"
+    ]
+  },
+  {
+    "id": "vocab_b_076",
+    "word": "difficult",
+    "meaning": "難しい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "The test was difficult.",
+    "exampleJapanese": "テストは難しかった。",
+    "choices": [
+      "難しい",
+      "かんたんな",
+      "短い"
+    ]
+  },
+  {
+    "id": "vocab_b_077",
+    "word": "important",
+    "meaning": "大事な",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "This key is important.",
+    "exampleJapanese": "この鍵は大事だ。",
+    "choices": [
+      "大事な",
+      "不要な",
+      "壊れた"
+    ]
+  },
+  {
+    "id": "vocab_b_078",
+    "word": "careful",
+    "meaning": "注意している",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "Please be careful.",
+    "exampleJapanese": "どうか気をつけて。",
+    "choices": [
+      "注意している",
+      "不注意な",
+      "無関心な"
+    ]
+  },
+  {
+    "id": "vocab_b_079",
+    "word": "today",
+    "meaning": "今日",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "Today is Monday.",
+    "exampleJapanese": "今日は月曜日だ。",
+    "choices": [
+      "今日",
+      "昨日",
+      "来月"
+    ]
+  },
+  {
+    "id": "vocab_b_080",
+    "word": "idea",
+    "meaning": "考え",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "That's a good idea.",
+    "exampleJapanese": "それはいい考えだ。",
+    "choices": [
+      "考え",
+      "問題",
+      "約束"
+    ]
+  },
+  {
+    "id": "vocab_b_081",
+    "word": "problem",
+    "meaning": "問題",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "No problem.",
+    "exampleJapanese": "問題ないよ。",
+    "choices": [
+      "問題",
+      "解決策",
+      "質問"
+    ]
+  },
+  {
+    "id": "vocab_b_082",
+    "word": "ready",
+    "meaning": "準備ができた",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm ready to go.",
+    "exampleJapanese": "行く準備ができた。",
+    "choices": [
+      "準備ができた",
+      "遅れている",
+      "迷っている"
+    ]
+  },
+  {
+    "id": "vocab_b_083",
+    "word": "different",
+    "meaning": "違う",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "These bags are different.",
+    "exampleJapanese": "これらのかばんは違う。",
+    "choices": [
+      "違う",
+      "同じ",
+      "壊れた"
+    ]
+  },
+  {
+    "id": "vocab_b_084",
+    "word": "same",
+    "meaning": "同じ",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "We have the same bag.",
+    "exampleJapanese": "同じかばんを持っている。",
+    "choices": [
+      "同じ",
+      "違う",
+      "新しい"
+    ]
+  },
+  {
+    "id": "vocab_b_085",
+    "word": "only",
+    "meaning": "〜だけ",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I only have five minutes.",
+    "exampleJapanese": "5分しかない。",
+    "choices": [
+      "〜だけ",
+      "いつも",
+      "たくさん"
+    ]
+  },
+  {
+    "id": "vocab_b_086",
+    "word": "also",
+    "meaning": "〜もまた",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I also want coffee.",
+    "exampleJapanese": "コーヒーもほしい。",
+    "choices": [
+      "〜もまた",
+      "まったく",
+      "すでに"
+    ]
+  },
+  {
+    "id": "vocab_b_087",
+    "word": "very",
+    "meaning": "とても",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "It's very cold.",
+    "exampleJapanese": "とても寒い。",
+    "choices": [
+      "とても",
+      "少し",
+      "たまに"
+    ]
+  },
+  {
+    "id": "vocab_b_088",
+    "word": "almost",
+    "meaning": "ほとんど",
+    "partOfSpeech": "副詞",
+    "level": "beginner",
+    "example": "I'm almost done.",
+    "exampleJapanese": "ほとんど終わった。",
+    "choices": [
+      "ほとんど",
+      "まったく",
+      "たまに"
+    ]
+  },
+  {
+    "id": "vocab_b_089",
+    "word": "fun",
+    "meaning": "楽しい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "That game was fun.",
+    "exampleJapanese": "あのゲームは楽しかった。",
+    "choices": [
+      "楽しい",
+      "退屈な",
+      "痛い"
+    ]
+  },
+  {
+    "id": "vocab_b_090",
+    "word": "nice",
+    "meaning": "感じがよい",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "That's a nice photo.",
+    "exampleJapanese": "いい写真だね。",
+    "choices": [
+      "感じがよい",
+      "ひどい",
+      "重い"
+    ]
+  },
+  {
+    "id": "vocab_b_091",
+    "word": "tired",
+    "meaning": "疲れている",
+    "partOfSpeech": "形容詞",
+    "level": "beginner",
+    "example": "I'm tired.",
+    "exampleJapanese": "疲れた。",
+    "choices": [
+      "疲れている",
+      "元気だ",
+      "空腹だ"
+    ]
+  },
+  {
+    "id": "vocab_b_092",
+    "word": "talk",
+    "meaning": "話す",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Let's talk later.",
+    "exampleJapanese": "あとで話そう。",
+    "choices": [
+      "話す",
+      "黙る",
+      "走る"
+    ]
+  },
+  {
+    "id": "vocab_b_093",
+    "word": "look",
+    "meaning": "見る",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Look at this photo.",
+    "exampleJapanese": "この写真を見て。",
+    "choices": [
+      "見る",
+      "聞く",
+      "買う"
+    ]
+  },
+  {
+    "id": "vocab_b_094",
+    "word": "open",
+    "meaning": "開ける",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Can you open the window?",
+    "exampleJapanese": "窓を開けてくれる？",
+    "choices": [
+      "開ける",
+      "閉める",
+      "壊す"
+    ]
+  },
+  {
+    "id": "vocab_b_095",
+    "word": "answer",
+    "meaning": "答える",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Please answer me.",
+    "exampleJapanese": "返事して。",
+    "choices": [
+      "答える",
+      "質問する",
+      "無視する"
+    ]
+  },
+  {
+    "id": "vocab_b_096",
+    "word": "ask",
+    "meaning": "質問する",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "Can I ask you something?",
+    "exampleJapanese": "ちょっと質問していい？",
+    "choices": [
+      "質問する",
+      "答える",
+      "約束する"
+    ]
+  },
+  {
+    "id": "vocab_b_097",
+    "word": "study",
+    "meaning": "勉強する",
+    "partOfSpeech": "動詞",
+    "level": "beginner",
+    "example": "I study at night.",
+    "exampleJapanese": "夜に勉強する。",
+    "choices": [
+      "勉強する",
+      "遊ぶ",
+      "寝る"
+    ]
+  },
+  {
+    "id": "vocab_b_098",
+    "word": "umbrella",
+    "meaning": "傘",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "I brought an umbrella.",
+    "exampleJapanese": "傘を持ってきた。",
+    "choices": [
+      "傘",
+      "手袋",
+      "帽子"
+    ]
+  },
+  {
+    "id": "vocab_b_099",
+    "word": "battery",
+    "meaning": "電池",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "The battery is low.",
+    "exampleJapanese": "電池が残り少ない。",
+    "choices": [
+      "電池",
+      "画面",
+      "ボタン"
+    ]
+  },
+  {
+    "id": "vocab_b_100",
+    "word": "alarm",
+    "meaning": "目覚まし時計",
+    "partOfSpeech": "名詞",
+    "level": "beginner",
+    "example": "Set an alarm for seven.",
+    "exampleJapanese": "7時に目覚まし時計をセットして。",
+    "choices": [
+      "目覚まし時計",
+      "予定表",
+      "鍵"
+    ]
+  }
+]

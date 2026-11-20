@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_emotions_01",
+    "category": "emotions",
+    "level": "beginner",
+    "japanese": "マジうれしい！",
+    "correctEnglish": "I'm so happy!",
+    "choices": ["I'm so happy!", "I'm so tired.", "I'm so sorry."],
+    "explanation": "気持ちの高さを so で足す、そのままの喜び方です。",
+    "alternativeExpressions": ["This makes me so happy."]
+  },
+  {
+    "id": "conv_emotions_02",
+    "category": "emotions",
+    "level": "intermediate",
+    "japanese": "ちょっとイライラする",
+    "correctEnglish": "I'm a little annoyed.",
+    "choices": ["I'm a little annoyed.", "I'm a little hungry.", "I'm a little early."],
+    "explanation": "怒り切るほどではない苛立ちには annoyed が自然です。",
+    "alternativeExpressions": ["I'm kinda irritated."]
+  },
+  {
+    "id": "conv_emotions_03",
+    "category": "emotions",
+    "level": "intermediate",
+    "japanese": "なんかモヤモヤする",
+    "correctEnglish": "I feel kind of off.",
+    "choices": ["I feel kind of off.", "I feel kind of proud.", "I feel kind of full."],
+    "explanation": "理由はうまく言えないけど、気分が晴れないときに使います。",
+    "alternativeExpressions": ["Something's been bothering me."]
+  },
+  {
+    "id": "conv_emotions_04",
+    "category": "emotions",
+    "level": "beginner",
+    "japanese": "ショックだわ",
+    "correctEnglish": "I'm shocked.",
+    "choices": ["I'm shocked.", "I'm relieved.", "I'm bored."],
+    "explanation": "予想外のことに心が揺れた状態です。安心した、ではありません。",
+    "alternativeExpressions": ["That's such a shock."]
+  },
+  {
+    "id": "conv_emotions_05",
+    "category": "emotions",
+    "level": "beginner",
+    "japanese": "安心した",
+    "correctEnglish": "I'm relieved.",
+    "choices": ["I'm relieved.", "I'm confused.", "I'm embarrassed."],
+    "explanation": "心配が解けてほっとした気持ちです。",
+    "alternativeExpressions": ["That's a relief."]
+  },
+  {
+    "id": "conv_emotions_06",
+    "category": "emotions",
+    "level": "intermediate",
+    "japanese": "羨ましい",
+    "correctEnglish": "I'm so jealous.",
+    "choices": ["I'm so jealous.", "I'm so proud of you.", "I'm so curious."],
+    "explanation": "くだけた会話では、羨ましい気持ちに jealous をよく使います。",
+    "alternativeExpressions": ["I envy you."]
+  },
+  {
+    "id": "conv_emotions_07",
+    "category": "emotions",
+    "level": "beginner",
+    "japanese": "泣きそう",
+    "correctEnglish": "I'm gonna cry.",
+    "choices": ["I'm gonna cry.", "I'm gonna leave.", "I'm gonna laugh."],
+    "explanation": "今にも泣きそうな状態です。gonna は going to の会話での形です。",
+    "alternativeExpressions": ["I'm about to cry."]
+  },
+  {
+    "id": "conv_emotions_08",
+    "category": "emotions",
+    "level": "intermediate",
+    "japanese": "もうどうでもいい",
+    "correctEnglish": "I don't even care anymore.",
+    "choices": ["I don't even care anymore.", "I really want that.", "I'll think about it."],
+    "explanation": "興味やこだわりを手放した感じです。考え中、とは違います。",
+    "alternativeExpressions": ["Whatever."]
+  },
+  {
+    "id": "conv_emotions_09",
+    "category": "emotions",
+    "level": "beginner",
+    "japanese": "最高！",
+    "correctEnglish": "This is the best!",
+    "choices": ["This is the best!", "This is the worst.", "This is the last one."],
+    "explanation": "体験やものをストレートにほめる言い方です。",
+    "alternativeExpressions": ["This is amazing!"]
+  },
+  {
+    "id": "conv_emotions_10",
+    "category": "emotions",
+    "level": "intermediate",
+    "japanese": "きつく言いすぎた、ごめん",
+    "correctEnglish": "Sorry, that came out too harsh.",
+    "choices": ["Sorry, that came out too harsh.", "Sorry, I got there too late.", "Sorry, I forgot your birthday."],
+    "explanation": "言い方がきつかったと謝るときに harsh を使います。遅刻の謝罪ではありません。",
+    "alternativeExpressions": ["Sorry, I was too hard on you."]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_cafe_01",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "これください",
+    "correctEnglish": "I'll take this.",
+    "choices": ["I'll take this.", "I'll leave this.", "I'll wrap this."],
+    "explanation": "店で何かを選んで注文するときの自然な言い方です。",
+    "alternativeExpressions": ["This one, please."]
+  },
+  {
+    "id": "conv_cafe_02",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "おすすめはどれ？",
+    "correctEnglish": "What do you recommend?",
+    "choices": ["What do you recommend?", "What do you have left?", "What do you call this?"],
+    "explanation": "店員におすすめを聞く定番です。残りは何があるか、とは別の質問です。",
+    "alternativeExpressions": ["What do you suggest?"]
+  },
+  {
+    "id": "conv_cafe_03",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "店内でお願いします",
+    "correctEnglish": "For here, please.",
+    "choices": ["For here, please.", "For later, please.", "For two, please."],
+    "explanation": "イートインを伝える決り文句です。人数の話ではありません。",
+    "alternativeExpressions": ["I'll have it here."]
+  },
+  {
+    "id": "conv_cafe_04",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "持ち帰りで",
+    "correctEnglish": "To go, please.",
+    "choices": ["To go, please.", "To stay, please.", "To share, please."],
+    "explanation": "テイクアウトを伝える決り文句です。For here の反対です。",
+    "alternativeExpressions": ["Takeout, please."]
+  },
+  {
+    "id": "conv_cafe_05",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "これ試着していい？",
+    "correctEnglish": "Can I try this on?",
+    "choices": ["Can I try this on?", "Can I pay for this?", "Can I return this?"],
+    "explanation": "服を試着したいときの質問です。try on で「身につけてみる」になります。",
+    "alternativeExpressions": ["Can I try it on?"]
+  },
+  {
+    "id": "conv_cafe_06",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "別のサイズある？",
+    "correctEnglish": "Do you have this in another size?",
+    "choices": ["Do you have this in another size?", "Do you have a gift box?", "Can you hold this for me?"],
+    "explanation": "同じ商品の別サイズを聞く言い方です。在庫を取り置きする話ではありません。",
+    "alternativeExpressions": ["Do you have a different size?"]
+  },
+  {
+    "id": "conv_cafe_07",
+    "category": "cafe",
+    "level": "intermediate",
+    "japanese": "会計お願いします",
+    "correctEnglish": "I'd like to pay.",
+    "choices": ["I'd like to pay.", "I'd like to order.", "I'd like a menu."],
+    "explanation": "カフェのカウンターで支払いを伝える言い方です。まだ注文する前、ではありません。",
+    "alternativeExpressions": ["Can I pay now?"]
+  },
+  {
+    "id": "conv_cafe_08",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "袋いらないです",
+    "correctEnglish": "I don't need a bag.",
+    "choices": ["I don't need a bag.", "I don't need a receipt.", "I don't need a straw."],
+    "explanation": "レジ袋を断るときのそのままの表現です。レシートを断る文とは目的語が違います。",
+    "alternativeExpressions": ["No bag, thanks."]
+  },
+  {
+    "id": "conv_cafe_09",
+    "category": "cafe",
+    "level": "intermediate",
+    "japanese": "これ温めてもらえますか",
+    "correctEnglish": "Could you heat this up?",
+    "choices": ["Could you heat this up?", "Could you wrap this up?", "Could you ring this up?"],
+    "explanation": "温める、包む、会計するは、どれも店で使う句ですが意味が違います。heat up が温めるです。",
+    "alternativeExpressions": ["Could you warm this up?"]
+  },
+  {
+    "id": "conv_cafe_10",
+    "category": "cafe",
+    "level": "beginner",
+    "japanese": "カードで払います",
+    "correctEnglish": "I'll pay by card.",
+    "choices": ["I'll pay by card.", "I'll pay in cash.", "I'll pay next time."],
+    "explanation": "支払い方法がカードだと伝える表現です。現金とは反対です。",
+    "alternativeExpressions": ["Card, please."]
+  }
+]

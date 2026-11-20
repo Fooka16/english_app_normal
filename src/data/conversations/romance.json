@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_romance_01",
+    "category": "romance",
+    "level": "intermediate",
+    "japanese": "好きかも",
+    "correctEnglish": "I think I like you.",
+    "choices": ["I think I like you.", "I think you like me.", "I think I know you."],
+    "explanation": "断定しすぎない、やわらかい伝え方です。I think you like me. は相手の気持ちの話になります。",
+    "alternativeExpressions": ["I kinda like you."]
+  },
+  {
+    "id": "conv_romance_02",
+    "category": "romance",
+    "level": "intermediate",
+    "japanese": "ねえ、起きてる？",
+    "correctEnglish": "You up?",
+    "choices": ["You up?", "You coming?", "You hungry?"],
+    "explanation": "夜遅くに、相手がまだ起きているかメッセージで聞く短い表現です。",
+    "alternativeExpressions": ["Are you still up?"]
+  },
+  {
+    "id": "conv_romance_03",
+    "category": "romance",
+    "level": "beginner",
+    "japanese": "今日会える？",
+    "correctEnglish": "Can we meet today?",
+    "choices": ["Can we meet today?", "Did we meet today?", "Can we talk tomorrow?"],
+    "explanation": "今日会えるかを提案も込めて聞く言い方です。明日の話とは別です。",
+    "alternativeExpressions": ["You free to see me today?"]
+  },
+  {
+    "id": "conv_romance_04",
+    "category": "romance",
+    "level": "intermediate",
+    "japanese": "返信遅くなってごめん",
+    "correctEnglish": "Sorry for the late reply.",
+    "choices": ["Sorry for the late reply.", "Sorry I missed your call.", "Sorry I can't make it."],
+    "explanation": "メッセージの返信が遅れたときの定番です。電話に出られなかった、とは別の状況です。",
+    "alternativeExpressions": ["Sorry I got back to you so late."]
+  },
+  {
+    "id": "conv_romance_05",
+    "category": "romance",
+    "level": "intermediate",
+    "japanese": "会いたかった",
+    "correctEnglish": "I missed you.",
+    "choices": ["I missed you.", "I missed the train.", "I missed your message."],
+    "explanation": "人に会いたかった気持ちは I missed you. が自然です。miss は「逃す」の意味にもなるので、目的語で意味が変わります。",
+    "alternativeExpressions": ["I wanted to see you."]
+  },
+  {
+    "id": "conv_romance_06",
+    "category": "romance",
+    "level": "beginner",
+    "japanese": "おやすみ、いい夢見てね",
+    "correctEnglish": "Good night. Sweet dreams.",
+    "choices": ["Good night. Sweet dreams.", "Good luck tonight.", "See you tonight."],
+    "explanation": "寝る前に送る定番の組み合わせです。Good luck は応援で、おやすみではありません。",
+    "alternativeExpressions": ["Night. Sleep well."]
+  },
+  {
+    "id": "conv_romance_07",
+    "category": "romance",
+    "level": "beginner",
+    "japanese": "今日かわいかったよ",
+    "correctEnglish": "You looked so cute today.",
+    "choices": ["You looked so cute today.", "You looked so busy today.", "You looked so tired today."],
+    "explanation": "今日の見た目を過去形 looked で伝えるほめ言葉です。",
+    "alternativeExpressions": ["You were so cute today."]
+  },
+  {
+    "id": "conv_romance_08",
+    "category": "romance",
+    "level": "intermediate",
+    "japanese": "ちょっと嫉妬しちゃう",
+    "correctEnglish": "I'm getting a little jealous.",
+    "choices": ["I'm getting a little jealous.", "I'm getting a little tired.", "I'm getting a little hungry."],
+    "explanation": "軽い嫉妬が出てくる感じを getting でやわらかく伝えます。",
+    "alternativeExpressions": ["I'm a little jealous."]
+  },
+  {
+    "id": "conv_romance_09",
+    "category": "romance",
+    "level": "beginner",
+    "japanese": "これ似合う？",
+    "correctEnglish": "Does this look good on me?",
+    "choices": ["Does this look good on me?", "Does this belong to me?", "Is this on sale?"],
+    "explanation": "服や小物が自分に似合っているかを聞く表現です。look good on で「似合う」になります。",
+    "alternativeExpressions": ["Do I pull this off?"]
+  },
+  {
+    "id": "conv_romance_10",
+    "category": "romance",
+    "level": "beginner",
+    "japanese": "また明日ね",
+    "correctEnglish": "See you tomorrow.",
+    "choices": ["See you tomorrow.", "Call me tomorrow.", "I leave tomorrow."],
+    "explanation": "次に会う約束をやわらかく締める言い方です。電話して、という依頼ではありません。",
+    "alternativeExpressions": ["Talk tomorrow."]
+  }
+]

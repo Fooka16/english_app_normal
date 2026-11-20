@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "vocab_a_001",
+    "word": "apparently",
+    "meaning": "どうやら",
+    "partOfSpeech": "副詞",
+    "level": "advanced",
+    "example": "Apparently, the train is late.",
+    "exampleJapanese": "どうやら電車が遅れているらしい。",
+    "choices": [
+      "どうやら",
+      "絶対に",
+      "昔は"
+    ]
+  },
+  {
+    "id": "vocab_a_002",
+    "word": "awkward",
+    "meaning": "気まずい",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "That silence was awkward.",
+    "exampleJapanese": "あの沈黙は気まずい。",
+    "choices": [
+      "気まずい",
+      "順調な",
+      "正式な"
+    ]
+  },
+  {
+    "id": "vocab_a_003",
+    "word": "casual",
+    "meaning": "くだけた",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "It's a casual party.",
+    "exampleJapanese": "くだけた集まりだよ。",
+    "choices": [
+      "くだけた",
+      "格式ばった",
+      "危険な"
+    ]
+  },
+  {
+    "id": "vocab_a_004",
+    "word": "considerate",
+    "meaning": "気配りがある",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "That was considerate of you.",
+    "exampleJapanese": "気が利いていたね。",
+    "choices": [
+      "気配りがある",
+      "無神経な",
+      "急いでいる"
+    ]
+  },
+  {
+    "id": "vocab_a_005",
+    "word": "embarrassed",
+    "meaning": "ばつの悪い",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "I felt embarrassed.",
+    "exampleJapanese": "ばつの悪さを感じた。",
+    "choices": [
+      "ばつの悪い",
+      "得意げな",
+      "無関心な"
+    ]
+  },
+  {
+    "id": "vocab_a_006",
+    "word": "eventually",
+    "meaning": "最終的には",
+    "partOfSpeech": "副詞",
+    "level": "advanced",
+    "example": "Eventually, we found it.",
+    "exampleJapanese": "最終的には見つかった。",
+    "choices": [
+      "最終的には",
+      "最初から",
+      "たまたま一度"
+    ]
+  },
+  {
+    "id": "vocab_a_007",
+    "word": "fluent",
+    "meaning": "流ちょうな",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "She is fluent in English.",
+    "exampleJapanese": "彼女は英語が流ちょうだ。",
+    "choices": [
+      "流ちょうな",
+      "初心者の",
+      "沈黙の"
+    ]
+  },
+  {
+    "id": "vocab_a_008",
+    "word": "grateful",
+    "meaning": "感謝している",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "I'm grateful for your help.",
+    "exampleJapanese": "助けてくれて感謝している。",
+    "choices": [
+      "感謝している",
+      "退屈している",
+      "急いでいる"
+    ]
+  },
+  {
+    "id": "vocab_a_009",
+    "word": "hesitate",
+    "meaning": "ためらう",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't hesitate to text me.",
+    "exampleJapanese": "遠慮せずメッセージして。",
+    "choices": [
+      "ためらう",
+      "急かす",
+      "約束を破る"
+    ]
+  },
+  {
+    "id": "vocab_a_010",
+    "word": "impression",
+    "meaning": "印象",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That left a good impression.",
+    "exampleJapanese": "それは良い印象を残した。",
+    "choices": [
+      "印象",
+      "領収書",
+      "在庫"
+    ]
+  },
+  {
+    "id": "vocab_a_011",
+    "word": "nostalgic",
+    "meaning": "なつかしい",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "This song is nostalgic.",
+    "exampleJapanese": "この曲はなつかしい。",
+    "choices": [
+      "なつかしい",
+      "真新しい",
+      "こわい"
+    ]
+  },
+  {
+    "id": "vocab_a_012",
+    "word": "obvious",
+    "meaning": "明白な",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "The answer was obvious.",
+    "exampleJapanese": "答えは明白だった。",
+    "choices": [
+      "明白な",
+      "あいまいな",
+      "秘密の"
+    ]
+  },
+  {
+    "id": "vocab_a_013",
+    "word": "overwhelmed",
+    "meaning": "いっぱいいっぱいだ",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "I'm overwhelmed with work.",
+    "exampleJapanese": "仕事でいっぱいいっぱいだ。",
+    "choices": [
+      "いっぱいいっぱいだ",
+      "暇を持て余している",
+      "無関心だ"
+    ]
+  },
+  {
+    "id": "vocab_a_014",
+    "word": "relief",
+    "meaning": "ほっとすること",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That's a relief.",
+    "exampleJapanese": "それはほっとすることだ。",
+    "choices": [
+      "ほっとすること",
+      "新たな心配",
+      "罰金"
+    ]
+  },
+  {
+    "id": "vocab_a_015",
+    "word": "sarcastic",
+    "meaning": "皮肉っぽい",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "Was that sarcastic?",
+    "exampleJapanese": "今の、皮肉だった？",
+    "choices": [
+      "皮肉っぽい",
+      "心からの",
+      "無表情な"
+    ]
+  },
+  {
+    "id": "vocab_a_016",
+    "word": "spontaneous",
+    "meaning": "思いつきの",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "It was a spontaneous trip.",
+    "exampleJapanese": "思いつきの旅行だった。",
+    "choices": [
+      "思いつきの",
+      "前から計画した",
+      "禁止された"
+    ]
+  },
+  {
+    "id": "vocab_a_017",
+    "word": "stubborn",
+    "meaning": "意固地な",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "Don't be stubborn.",
+    "exampleJapanese": "意固地にならないで。",
+    "choices": [
+      "意固地な",
+      "素直な",
+      "無関心な"
+    ]
+  },
+  {
+    "id": "vocab_a_018",
+    "word": "typical",
+    "meaning": "よくある",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "That's a typical Monday.",
+    "exampleJapanese": "よくある月曜日だ。",
+    "choices": [
+      "よくある",
+      "前例がない",
+      "違法な"
+    ]
+  },
+  {
+    "id": "vocab_a_019",
+    "word": "vague",
+    "meaning": "ぼんやりした",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "Your plan is vague.",
+    "exampleJapanese": "計画がぼんやりしている。",
+    "choices": [
+      "ぼんやりした",
+      "具体的な",
+      "短い"
+    ]
+  },
+  {
+    "id": "vocab_a_020",
+    "word": "weird",
+    "meaning": "なんか変な",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "That noise was weird.",
+    "exampleJapanese": "あの音はなんか変だった。",
+    "choices": [
+      "なんか変な",
+      "普通の",
+      "公式な"
+    ]
+  },
+  {
+    "id": "vocab_a_021",
+    "word": "worth",
+    "meaning": "価値がある",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "It's worth a try.",
+    "exampleJapanese": "やってみる価値はある。",
+    "choices": [
+      "価値がある",
+      "無料である",
+      "禁止されている"
+    ]
+  },
+  {
+    "id": "vocab_a_022",
+    "word": "boundary",
+    "meaning": "一線",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Please respect that boundary.",
+    "exampleJapanese": "その一線は守ってほしい。",
+    "choices": [
+      "一線",
+      "割引",
+      "道案内"
+    ]
+  },
+  {
+    "id": "vocab_a_023",
+    "word": "compliment",
+    "meaning": "ほめ言葉",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Thanks for the compliment.",
+    "exampleJapanese": "ほめ言葉をありがとう。",
+    "choices": [
+      "ほめ言葉",
+      "苦情",
+      "請求書"
+    ]
+  },
+  {
+    "id": "vocab_a_024",
+    "word": "compromise",
+    "meaning": "妥協",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Let's find a compromise.",
+    "exampleJapanese": "妥協点を見つけよう。",
+    "choices": [
+      "妥協",
+      "完全な勝利",
+      "キャンセル"
+    ]
+  },
+  {
+    "id": "vocab_a_025",
+    "word": "deadline",
+    "meaning": "締め切り",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "The deadline is Friday.",
+    "exampleJapanese": "締め切りは金曜日だ。",
+    "choices": [
+      "締め切り",
+      "開始の合図",
+      "給料日"
+    ]
+  },
+  {
+    "id": "vocab_a_026",
+    "word": "effort",
+    "meaning": "努力",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "I appreciate the effort.",
+    "exampleJapanese": "その努力に感謝する。",
+    "choices": [
+      "努力",
+      "偶然",
+      "休息"
+    ]
+  },
+  {
+    "id": "vocab_a_027",
+    "word": "excuse",
+    "meaning": "言い訳",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That's not a good excuse.",
+    "exampleJapanese": "それは良い言い訳じゃない。",
+    "choices": [
+      "言い訳",
+      "証拠の写真",
+      "招待状"
+    ]
+  },
+  {
+    "id": "vocab_a_028",
+    "word": "feedback",
+    "meaning": "感想",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Can I get your feedback?",
+    "exampleJapanese": "感想をもらえる？",
+    "choices": [
+      "感想",
+      "領収書",
+      "パスワード"
+    ]
+  },
+  {
+    "id": "vocab_a_029",
+    "word": "gossip",
+    "meaning": "うわさ話",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "I don't like gossip.",
+    "exampleJapanese": "うわさ話は好きじゃない。",
+    "choices": [
+      "うわさ話",
+      "公式発表",
+      "取扱説明"
+    ]
+  },
+  {
+    "id": "vocab_a_030",
+    "word": "mindset",
+    "meaning": "ものの見方",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "A small change in mindset helps.",
+    "exampleJapanese": "見方を少し変えると楽になる。",
+    "choices": [
+      "ものの見方",
+      "時間割",
+      "住所録"
+    ]
+  },
+  {
+    "id": "vocab_a_031",
+    "word": "nuance",
+    "meaning": "微妙な違い",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "The nuance is hard to translate.",
+    "exampleJapanese": "その微妙な違いは訳しにくい。",
+    "choices": [
+      "微妙な違い",
+      "大きな誤字",
+      "料金表"
+    ]
+  },
+  {
+    "id": "vocab_a_032",
+    "word": "priority",
+    "meaning": "優先度",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Sleep is my priority tonight.",
+    "exampleJapanese": "今夜は睡眠が優先だ。",
+    "choices": [
+      "優先度",
+      "暇つぶし",
+      "罰金"
+    ]
+  },
+  {
+    "id": "vocab_a_033",
+    "word": "reputation",
+    "meaning": "評判",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "The shop has a good reputation.",
+    "exampleJapanese": "その店は評判がいい。",
+    "choices": [
+      "評判",
+      "在庫数",
+      "営業時間"
+    ]
+  },
+  {
+    "id": "vocab_a_034",
+    "word": "routine",
+    "meaning": "いつもの流れ",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "This is my morning routine.",
+    "exampleJapanese": "これが朝のいつもの流れだ。",
+    "choices": [
+      "いつもの流れ",
+      "突然の事件",
+      "割引"
+    ]
+  },
+  {
+    "id": "vocab_a_035",
+    "word": "tension",
+    "meaning": "緊張した空気",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "There was tension in the room.",
+    "exampleJapanese": "部屋に緊張した空気があった。",
+    "choices": [
+      "緊張した空気",
+      "笑い声",
+      "割引"
+    ]
+  },
+  {
+    "id": "vocab_a_036",
+    "word": "trend",
+    "meaning": "今のはやり",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That trend went by fast.",
+    "exampleJapanese": "そのはやりはすぐに過ぎた。",
+    "choices": [
+      "今のはやり",
+      "古い法律",
+      "在庫"
+    ]
+  },
+  {
+    "id": "vocab_a_037",
+    "word": "vibe",
+    "meaning": "その場の空気",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "I like the vibe here.",
+    "exampleJapanese": "ここの空気が好き。",
+    "choices": [
+      "その場の空気",
+      "値段",
+      "住所"
+    ]
+  },
+  {
+    "id": "vocab_a_038",
+    "word": "overthink",
+    "meaning": "考えすぎる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I overthink every text.",
+    "exampleJapanese": "メッセージのたびに考えすぎる。",
+    "choices": [
+      "考えすぎる",
+      "即決する",
+      "削除する"
+    ]
+  },
+  {
+    "id": "vocab_a_039",
+    "word": "procrastinate",
+    "meaning": "先延ばしにする",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I procrastinate on emails.",
+    "exampleJapanese": "メールを先延ばしにする。",
+    "choices": [
+      "先延ばしにする",
+      "すぐ終える",
+      "印刷する"
+    ]
+  },
+  {
+    "id": "vocab_a_040",
+    "word": "reassure",
+    "meaning": "安心させる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Let me reassure you.",
+    "exampleJapanese": "大丈夫だと安心させておくね。",
+    "choices": [
+      "安心させる",
+      "怖がらせる",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_a_041",
+    "word": "struggle",
+    "meaning": "苦戦する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I struggle with mornings.",
+    "exampleJapanese": "朝には苦戦する。",
+    "choices": [
+      "苦戦する",
+      "楽にこなす",
+      "指導する"
+    ]
+  },
+  {
+    "id": "vocab_a_042",
+    "word": "tease",
+    "meaning": "からかう",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't tease her.",
+    "exampleJapanese": "彼女をからかわないで。",
+    "choices": [
+      "からかう",
+      "真剣に謝る",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_a_043",
+    "word": "exaggerate",
+    "meaning": "話を盛る",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't exaggerate the story.",
+    "exampleJapanese": "話を盛らないで。",
+    "choices": [
+      "話を盛る",
+      "短く言う",
+      "隠す"
+    ]
+  },
+  {
+    "id": "vocab_a_044",
+    "word": "convince",
+    "meaning": "説得する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can't convince him.",
+    "exampleJapanese": "彼を説得できない。",
+    "choices": [
+      "説得する",
+      "無視する",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_a_045",
+    "word": "deserve",
+    "meaning": "〜するだけのことはある",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "You deserve a break.",
+    "exampleJapanese": "休憩していいだけのことはあるよ。",
+    "choices": [
+      "〜するだけのことはある",
+      "ふさわしくない",
+      "無関係だ"
+    ]
+  },
+  {
+    "id": "vocab_a_046",
+    "word": "encourage",
+    "meaning": "励ます",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Friends encourage me.",
+    "exampleJapanese": "友達が励ましてくれる。",
+    "choices": [
+      "励ます",
+      "落胆させる",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_a_047",
+    "word": "ignore",
+    "meaning": "無視する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't ignore the message.",
+    "exampleJapanese": "メッセージを無視しないで。",
+    "choices": [
+      "無視する",
+      "すぐに返信する",
+      "印刷する"
+    ]
+  },
+  {
+    "id": "vocab_a_048",
+    "word": "insist",
+    "meaning": "譲らず言う",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I insist on paying.",
+    "exampleJapanese": "払うと言って譲らない。",
+    "choices": [
+      "譲らず言う",
+      "すぐ撤回する",
+      "黙る"
+    ]
+  },
+  {
+    "id": "vocab_a_049",
+    "word": "intend",
+    "meaning": "するつもりだ",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I intend to leave early.",
+    "exampleJapanese": "早く出るつもりだ。",
+    "choices": [
+      "するつもりだ",
+      "偶然そうなる",
+      "禁止する"
+    ]
+  },
+  {
+    "id": "vocab_a_050",
+    "word": "prefer",
+    "meaning": "より好む",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I prefer tea to coffee.",
+    "exampleJapanese": "コーヒーよりお茶がいい。",
+    "choices": [
+      "より好む",
+      "両方拒否する",
+      "同じだけ嫌う"
+    ]
+  },
+  {
+    "id": "vocab_a_051",
+    "word": "prevent",
+    "meaning": "防ぐ",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "This can prevent a mistake.",
+    "exampleJapanese": "これでミスを防げる。",
+    "choices": [
+      "防ぐ",
+      "引き起こす",
+      "祝う"
+    ]
+  },
+  {
+    "id": "vocab_a_052",
+    "word": "recommend",
+    "meaning": "勧める",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I recommend this cafe.",
+    "exampleJapanese": "このカフェを勧める。",
+    "choices": [
+      "勧める",
+      "非難する",
+      "閉店する"
+    ]
+  },
+  {
+    "id": "vocab_a_053",
+    "word": "remind",
+    "meaning": "思い出させる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Remind me tonight.",
+    "exampleJapanese": "今夜また思い出させて。",
+    "choices": [
+      "思い出させる",
+      "忘れさせる",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_a_054",
+    "word": "resist",
+    "meaning": "こらえる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can't resist fries.",
+    "exampleJapanese": "フライドポテトをこらえられない。",
+    "choices": [
+      "こらえる",
+      "すぐにやめる",
+      "注文する"
+    ]
+  },
+  {
+    "id": "vocab_a_055",
+    "word": "appreciate",
+    "meaning": "ありがたく受け取る",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I appreciate your help.",
+    "exampleJapanese": "助けをありがたく受け取る。",
+    "choices": [
+      "ありがたく受け取る",
+      "批判する",
+      "延期する"
+    ]
+  },
+  {
+    "id": "vocab_a_056",
+    "word": "blame",
+    "meaning": "非難する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't blame yourself.",
+    "exampleJapanese": "自分を非難しないで。",
+    "choices": [
+      "非難する",
+      "表彰する",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_a_057",
+    "word": "clarify",
+    "meaning": "明確にする",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Let me clarify that.",
+    "exampleJapanese": "そこを明確にするね。",
+    "choices": [
+      "明確にする",
+      "あいまいにする",
+      "削除する"
+    ]
+  },
+  {
+    "id": "vocab_a_058",
+    "word": "confirm",
+    "meaning": "確かめる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Can you confirm the time?",
+    "exampleJapanese": "時間を確かめてくれる？",
+    "choices": [
+      "確かめる",
+      "取り消す",
+      "噂する"
+    ]
+  },
+  {
+    "id": "vocab_a_059",
+    "word": "deny",
+    "meaning": "否定する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I deny that rumor.",
+    "exampleJapanese": "そのうわさは否定する。",
+    "choices": [
+      "否定する",
+      "認める",
+      "広める"
+    ]
+  },
+  {
+    "id": "vocab_a_060",
+    "word": "distract",
+    "meaning": "気を散らす",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Notifications distract me.",
+    "exampleJapanese": "通知が気を散らす。",
+    "choices": [
+      "気を散らす",
+      "集中させる",
+      "保存する"
+    ]
+  },
+  {
+    "id": "vocab_a_061",
+    "word": "impress",
+    "meaning": "印象づける",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "The view impressed me.",
+    "exampleJapanese": "景色が心に残った。",
+    "choices": [
+      "印象づける",
+      "失望させる",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_a_062",
+    "word": "involve",
+    "meaning": "巻き込む",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't involve me in that.",
+    "exampleJapanese": "その話に巻き込まないで。",
+    "choices": [
+      "巻き込む",
+      "除外する",
+      "翻訳する"
+    ]
+  },
+  {
+    "id": "vocab_a_063",
+    "word": "maintain",
+    "meaning": "保ち続ける",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Maintain a little distance.",
+    "exampleJapanese": "少し距離を保って。",
+    "choices": [
+      "保ち続ける",
+      "すぐに壊す",
+      "無視する"
+    ]
+  },
+  {
+    "id": "vocab_a_064",
+    "word": "motivate",
+    "meaning": "やる気を引き出す",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Music can motivate me.",
+    "exampleJapanese": "音楽でやる気が出る。",
+    "choices": [
+      "やる気を引き出す",
+      "落胆させる",
+      "遅らせる"
+    ]
+  },
+  {
+    "id": "vocab_a_065",
+    "word": "recall",
+    "meaning": "思い出す",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can't recall the name.",
+    "exampleJapanese": "名前を思い出せない。",
+    "choices": [
+      "思い出す",
+      "知らないふりをする",
+      "予約する"
+    ]
+  },
+  {
+    "id": "vocab_a_066",
+    "word": "require",
+    "meaning": "必要とする",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "This form requires a signature.",
+    "exampleJapanese": "この用紙には署名が必要だ。",
+    "choices": [
+      "必要とする",
+      "禁止する",
+      "割引する"
+    ]
+  },
+  {
+    "id": "vocab_a_067",
+    "word": "respond",
+    "meaning": "受けて返す",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Please respond today.",
+    "exampleJapanese": "今日中に返事して。",
+    "choices": [
+      "受けて返す",
+      "既読のまま放置する",
+      "削除する"
+    ]
+  },
+  {
+    "id": "vocab_a_068",
+    "word": "satisfy",
+    "meaning": "満足させる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "That answer didn't satisfy me.",
+    "exampleJapanese": "その答えでは満足できなかった。",
+    "choices": [
+      "満足させる",
+      "怒らせる",
+      "延期する"
+    ]
+  },
+  {
+    "id": "vocab_a_069",
+    "word": "suppose",
+    "meaning": "たぶん〜だろう",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I suppose you're right.",
+    "exampleJapanese": "たぶん君が正しい。",
+    "choices": [
+      "たぶん〜だろう",
+      "強く否定する",
+      "計測する"
+    ]
+  },
+  {
+    "id": "vocab_a_070",
+    "word": "survive",
+    "meaning": "切り抜ける",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can survive this week.",
+    "exampleJapanese": "今週は切り抜ける。",
+    "choices": [
+      "切り抜ける",
+      "最初から楽をする",
+      "中止する"
+    ]
+  },
+  {
+    "id": "vocab_a_071",
+    "word": "swear",
+    "meaning": "断言する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I swear I sent it.",
+    "exampleJapanese": "送ったと断言する。",
+    "choices": [
+      "断言する",
+      "取り消す",
+      "隠す"
+    ]
+  },
+  {
+    "id": "vocab_a_072",
+    "word": "tend",
+    "meaning": "しがちだ",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I tend to oversleep.",
+    "exampleJapanese": "寝坊しがちだ。",
+    "choices": [
+      "しがちだ",
+      "決してしない",
+      "禁止する"
+    ]
+  },
+  {
+    "id": "vocab_a_073",
+    "word": "assume",
+    "meaning": "決めつける",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't assume I'm free.",
+    "exampleJapanese": "暇だと思い込まないで。",
+    "choices": [
+      "決めつける",
+      "確認してから言う",
+      "謝罪する"
+    ]
+  },
+  {
+    "id": "vocab_a_074",
+    "word": "context",
+    "meaning": "背景",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "You need the context.",
+    "exampleJapanese": "その背景が必要だ。",
+    "choices": [
+      "背景",
+      "値段",
+      "パスワード"
+    ]
+  },
+  {
+    "id": "vocab_a_075",
+    "word": "issue",
+    "meaning": "懸案",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "There's one issue left.",
+    "exampleJapanese": "懸案が一つ残っている。",
+    "choices": [
+      "懸案",
+      "ごほうび",
+      "割引券"
+    ]
+  },
+  {
+    "id": "vocab_a_076",
+    "word": "option",
+    "meaning": "選択肢",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That's not an option.",
+    "exampleJapanese": "それは選択肢にない。",
+    "choices": [
+      "選択肢",
+      "義務だけ",
+      "領収書"
+    ]
+  },
+  {
+    "id": "vocab_a_077",
+    "word": "progress",
+    "meaning": "進み具合",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "I'm happy with my progress.",
+    "exampleJapanese": "進み具合に満足している。",
+    "choices": [
+      "進み具合",
+      "罰金",
+      "案内図"
+    ]
+  },
+  {
+    "id": "vocab_a_078",
+    "word": "purpose",
+    "meaning": "目的",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "What is the purpose?",
+    "exampleJapanese": "目的は何？",
+    "choices": [
+      "目的",
+      "偶然の結果",
+      "副作用"
+    ]
+  },
+  {
+    "id": "vocab_a_079",
+    "word": "reaction",
+    "meaning": "反応",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Her reaction was calm.",
+    "exampleJapanese": "彼女の反応は落ち着いていた。",
+    "choices": [
+      "反応",
+      "原因",
+      "予定表"
+    ]
+  },
+  {
+    "id": "vocab_a_080",
+    "word": "situation",
+    "meaning": "置かれた状況",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "It's a tricky situation.",
+    "exampleJapanese": "ややこしい状況だ。",
+    "choices": [
+      "置かれた状況",
+      "解決マニュアル",
+      "商品"
+    ]
+  },
+  {
+    "id": "vocab_a_081",
+    "word": "suggestion",
+    "meaning": "出された提案",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "That's a good suggestion.",
+    "exampleJapanese": "それは良い提案だ。",
+    "choices": [
+      "出された提案",
+      "命令",
+      "請求"
+    ]
+  },
+  {
+    "id": "vocab_a_082",
+    "word": "timing",
+    "meaning": "タイミング",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "The timing was perfect.",
+    "exampleJapanese": "タイミングが完璧だった。",
+    "choices": [
+      "タイミング",
+      "場所",
+      "値段"
+    ]
+  },
+  {
+    "id": "vocab_a_083",
+    "word": "judgment",
+    "meaning": "判断",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Trust your judgment.",
+    "exampleJapanese": "自分の判断を信じて。",
+    "choices": [
+      "判断",
+      "噂",
+      "領収書"
+    ]
+  },
+  {
+    "id": "vocab_a_084",
+    "word": "opportunity",
+    "meaning": "機会",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "This is a good opportunity.",
+    "exampleJapanese": "これは良い機会だ。",
+    "choices": [
+      "機会",
+      "障害",
+      "罰金"
+    ]
+  },
+  {
+    "id": "vocab_a_085",
+    "word": "highlight",
+    "meaning": "いちばんの見どころ",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "The chorus was the highlight.",
+    "exampleJapanese": "サビがいちばんの見どころだった。",
+    "choices": [
+      "いちばんの見どころ",
+      "失敗",
+      "待ち時間"
+    ]
+  },
+  {
+    "id": "vocab_a_086",
+    "word": "hint",
+    "meaning": "それとなく示すこと",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Give me a hint.",
+    "exampleJapanese": "ヒントをちょうだい。",
+    "choices": [
+      "それとなく示すこと",
+      "完全な答え",
+      "罰"
+    ]
+  },
+  {
+    "id": "vocab_a_087",
+    "word": "gesture",
+    "meaning": "気持ちの表れ",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "It was a nice gesture.",
+    "exampleJapanese": "気が利いた振る舞いだった。",
+    "choices": [
+      "気持ちの表れ",
+      "無関心",
+      "請求"
+    ]
+  },
+  {
+    "id": "vocab_a_088",
+    "word": "estimate",
+    "meaning": "見積もる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I estimate an hour.",
+    "exampleJapanese": "1時間と見積もる。",
+    "choices": [
+      "見積もる",
+      "忘れる",
+      "キャンセルする"
+    ]
+  },
+  {
+    "id": "vocab_a_089",
+    "word": "overlook",
+    "meaning": "見落とす",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I might overlook a typo.",
+    "exampleJapanese": "誤字を見落とすかもしれない。",
+    "choices": [
+      "見落とす",
+      "注意深く見つける",
+      "大きく表示する"
+    ]
+  },
+  {
+    "id": "vocab_a_090",
+    "word": "relate",
+    "meaning": "共感できる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can relate to that.",
+    "exampleJapanese": "それは共感できる。",
+    "choices": [
+      "共感できる",
+      "無関係だと笑う",
+      "翻訳する"
+    ]
+  },
+  {
+    "id": "vocab_a_091",
+    "word": "ruin",
+    "meaning": "台無しにする",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "The rain might ruin the plan.",
+    "exampleJapanese": "雨で予定が台無しになるかもしれない。",
+    "choices": [
+      "台無しにする",
+      "成功させる",
+      "保存する"
+    ]
+  },
+  {
+    "id": "vocab_a_092",
+    "word": "skip",
+    "meaning": "意図的に飛ばす",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Let's skip the intro.",
+    "exampleJapanese": "導入は飛ばそう。",
+    "choices": [
+      "意図的に飛ばす",
+      "最初からやり直す",
+      "保存する"
+    ]
+  },
+  {
+    "id": "vocab_a_093",
+    "word": "suspect",
+    "meaning": "うすうす思う",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I suspect he's late.",
+    "exampleJapanese": "遅れているんじゃないかと思う。",
+    "choices": [
+      "うすうす思う",
+      "確信して祝う",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_a_094",
+    "word": "tolerate",
+    "meaning": "なんとか許容する",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "I can't tolerate that noise.",
+    "exampleJapanese": "あの音は許容できない。",
+    "choices": [
+      "なんとか許容する",
+      "大歓迎する",
+      "注文する"
+    ]
+  },
+  {
+    "id": "vocab_a_095",
+    "word": "underestimate",
+    "meaning": "低く見積もる",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Don't underestimate the walk.",
+    "exampleJapanese": "その徒歩を甘く見ないで。",
+    "choices": [
+      "低く見積もる",
+      "大げさに褒める",
+      "中止する"
+    ]
+  },
+  {
+    "id": "vocab_a_096",
+    "word": "update",
+    "meaning": "最新の情報",
+    "partOfSpeech": "名詞",
+    "level": "advanced",
+    "example": "Any update on the plan?",
+    "exampleJapanese": "予定に新しい動きはある？",
+    "choices": [
+      "最新の情報",
+      "古い領収書",
+      "忘れ物"
+    ]
+  },
+  {
+    "id": "vocab_a_097",
+    "word": "chill",
+    "meaning": "力を抜く",
+    "partOfSpeech": "動詞",
+    "level": "advanced",
+    "example": "Let's chill at home.",
+    "exampleJapanese": "家でのんびりしよう。",
+    "choices": [
+      "力を抜く",
+      "急いで働く",
+      "喧嘩する"
+    ]
+  },
+  {
+    "id": "vocab_a_098",
+    "word": "cringe",
+    "meaning": "いたたまれない",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "That video is cringe.",
+    "exampleJapanese": "あの動画はいたたまれない。",
+    "choices": [
+      "いたたまれない",
+      "堂々とした",
+      "公式な"
+    ]
+  },
+  {
+    "id": "vocab_a_099",
+    "word": "drained",
+    "meaning": "消耗しきった",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "I'm drained after work.",
+    "exampleJapanese": "仕事のあと消耗しきっている。",
+    "choices": [
+      "消耗しきった",
+      "活力にあふれた",
+      "空腹だけだ"
+    ]
+  },
+  {
+    "id": "vocab_a_100",
+    "word": "blunt",
+    "meaning": "単刀直入な",
+    "partOfSpeech": "形容詞",
+    "level": "advanced",
+    "example": "Sorry if that was blunt.",
+    "exampleJapanese": "単刀直入すぎたらごめん。",
+    "choices": [
+      "単刀直入な",
+      "遠回しな",
+      "無言の"
+    ]
+  }
+]

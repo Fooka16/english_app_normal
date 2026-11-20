@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_work_01",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "おつかれ！",
+    "correctEnglish": "Good work today.",
+    "choices": ["Good work today.", "See you next week.", "You're hired."],
+    "explanation": "シフト終わりの「おつかれ」に一番近い、同僚への声かけです。英語に完全に同じ決り文句はありません。",
+    "alternativeExpressions": ["Nice work today."]
+  },
+  {
+    "id": "conv_work_02",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "シフト変わった？",
+    "correctEnglish": "Did your shift change?",
+    "choices": ["Did your shift change?", "Did your paycheck arrive?", "Did the shop close?"],
+    "explanation": "勤務時間の変更を確認する言い方です。給料の話ではありません。",
+    "alternativeExpressions": ["Did they change your shift?"]
+  },
+  {
+    "id": "conv_work_03",
+    "category": "work",
+    "level": "beginner",
+    "japanese": "今ちょっと忙しい",
+    "correctEnglish": "I'm a little busy right now.",
+    "choices": ["I'm a little busy right now.", "I'm free right now.", "I already clocked out."],
+    "explanation": "今は手が空いていないと伝える表現です。もう退勤した、とは違います。",
+    "alternativeExpressions": ["I'm tied up right now."]
+  },
+  {
+    "id": "conv_work_04",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "代わりに入ってもらえる？",
+    "correctEnglish": "Can you cover for me?",
+    "choices": ["Can you cover for me?", "Can you train me?", "Can you pay me today?"],
+    "explanation": "自分の代わりに勤務や担当を頼むときの定番です。",
+    "alternativeExpressions": ["Can you cover my shift?"]
+  },
+  {
+    "id": "conv_work_05",
+    "category": "work",
+    "level": "beginner",
+    "japanese": "休憩いく？",
+    "correctEnglish": "Wanna take a break?",
+    "choices": ["Wanna take a break?", "Wanna take my shift?", "Wanna take an order?"],
+    "explanation": "一緒に休憩しないか、という誘いです。シフトを代わって、ではありません。",
+    "alternativeExpressions": ["Want to take a break?"]
+  },
+  {
+    "id": "conv_work_06",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "これ見といてもらえる？",
+    "correctEnglish": "Can you look this over?",
+    "choices": ["Can you look this over?", "Can you throw this out?", "Can you lock this up?"],
+    "explanation": "内容をざっと確認してほしいときの頼み方です。捨てる、鍵をかける、とは別です。",
+    "alternativeExpressions": ["Can you check this for me?"]
+  },
+  {
+    "id": "conv_work_07",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "今日は定時で上がれそう",
+    "correctEnglish": "I think I can leave on time today.",
+    "choices": ["I think I can leave on time today.", "I think I have to stay late.", "I think the shift was canceled."],
+    "explanation": "残業せずに帰れそう、という見通しです。残る必要がある、とは反対です。",
+    "alternativeExpressions": ["I think I can clock out on time."]
+  },
+  {
+    "id": "conv_work_08",
+    "category": "work",
+    "level": "beginner",
+    "japanese": "やっちゃった…",
+    "correctEnglish": "I messed up.",
+    "choices": ["I messed up.", "I cleaned it up.", "I wrapped it up."],
+    "explanation": "失敗したときのくだけた言い方です。片付けた、終わらせた、ではありません。",
+    "alternativeExpressions": ["I screwed up."]
+  },
+  {
+    "id": "conv_work_09",
+    "category": "work",
+    "level": "beginner",
+    "japanese": "お客さま来てるよ",
+    "correctEnglish": "A customer's here.",
+    "choices": ["A customer's here.", "The meeting's over.", "The delivery left."],
+    "explanation": "同僚に、お客さんが来たことを短く知らせる言い方です。",
+    "alternativeExpressions": ["We've got a customer."]
+  },
+  {
+    "id": "conv_work_10",
+    "category": "work",
+    "level": "intermediate",
+    "japanese": "レジお願いできる？",
+    "correctEnglish": "Can you watch the register?",
+    "choices": ["Can you watch the register?", "Can you close the register?", "Can you empty the register?"],
+    "explanation": "レジ番を代わってほしいときの頼み方です。レジを閉める、お金を空にする、とは違います。",
+    "alternativeExpressions": ["Can you cover the register?"]
+  }
+]

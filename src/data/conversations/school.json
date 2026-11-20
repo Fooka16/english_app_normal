@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_school_01",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "課題終わった？",
+    "correctEnglish": "Did you finish the assignment?",
+    "choices": ["Did you finish the assignment?", "Did you enjoy the class?", "Did you bring lunch?"],
+    "explanation": "宿題や課題が終わったかを聞く表現です。授業が楽しかったか、ではありません。",
+    "alternativeExpressions": ["You done with the homework?"]
+  },
+  {
+    "id": "conv_school_02",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "ノート見せて",
+    "correctEnglish": "Can I see your notes?",
+    "choices": ["Can I see your notes?", "Can you see the board?", "Did you buy the textbook?"],
+    "explanation": "相手のノートを見せてほしいときの頼み方です。主語が I なので、自分が見せてもらう側です。",
+    "alternativeExpressions": ["Mind if I look at your notes?"]
+  },
+  {
+    "id": "conv_school_03",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "この問題わかんない",
+    "correctEnglish": "I don't get this question.",
+    "choices": ["I don't get this question.", "I don't take this class.", "I don't have a pen."],
+    "explanation": "理解できないときは get をよく使います。授業を取っていない、とは別です。",
+    "alternativeExpressions": ["I don't understand this one."]
+  },
+  {
+    "id": "conv_school_04",
+    "category": "school",
+    "level": "intermediate",
+    "japanese": "テストやばい",
+    "correctEnglish": "I'm in trouble for this test.",
+    "choices": ["I'm in trouble for this test.", "I'm ready for this test.", "I passed this test."],
+    "explanation": "準備不足でテストが厳しい、という切迫した感じです。合格した、という結果の話ではありません。",
+    "alternativeExpressions": ["This test is gonna be rough."]
+  },
+  {
+    "id": "conv_school_05",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "休講だって",
+    "correctEnglish": "Class is canceled.",
+    "choices": ["Class is canceled.", "Class just started.", "Class was interesting."],
+    "explanation": "授業が行われないという知らせです。canceled はアメリカ式のつづりです。",
+    "alternativeExpressions": ["They canceled class."]
+  },
+  {
+    "id": "conv_school_06",
+    "category": "school",
+    "level": "advanced",
+    "japanese": "単位大丈夫？",
+    "correctEnglish": "Think you'll get the credit?",
+    "choices": ["Think you'll get the credit?", "Think you'll drop the class?", "Did you get the syllabus?"],
+    "explanation": "単位が取れそうかを心配して聞く言い方です。履修をやめるか、とは違います。",
+    "alternativeExpressions": ["Are you gonna pass?"]
+  },
+  {
+    "id": "conv_school_07",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "図書館で勉強する？",
+    "correctEnglish": "Wanna study at the library?",
+    "choices": ["Wanna study at the library?", "Wanna meet at the station?", "Wanna quit the club?"],
+    "explanation": "一緒に図書館で勉強しないか、という誘いです。Wanna は Do you want to のくだけた形です。",
+    "alternativeExpressions": ["Want to study at the library?"]
+  },
+  {
+    "id": "conv_school_08",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "先生に聞いた方がいいよ",
+    "correctEnglish": "You should ask the teacher.",
+    "choices": ["You should ask the teacher.", "You should skip the test.", "You should change classes."],
+    "explanation": "自分で抱えず、先生に確認するよう勧める表現です。",
+    "alternativeExpressions": ["You should check with the teacher."]
+  },
+  {
+    "id": "conv_school_09",
+    "category": "school",
+    "level": "beginner",
+    "japanese": "レポートいつまで？",
+    "correctEnglish": "When's the paper due?",
+    "choices": ["When's the paper due?", "Where's the paper?", "Whose paper is this?"],
+    "explanation": "提出期限を聞くときは due を使います。どこにあるか、ではありません。",
+    "alternativeExpressions": ["When's the report due?"]
+  },
+  {
+    "id": "conv_school_10",
+    "category": "school",
+    "level": "intermediate",
+    "japanese": "出席取られた",
+    "correctEnglish": "They took attendance.",
+    "choices": ["They took attendance.", "They canceled the quiz.", "They extended the deadline."],
+    "explanation": "先生が出席を確認した、という報告です。テストが中止になった話ではありません。",
+    "alternativeExpressions": ["The teacher checked attendance."]
+  }
+]

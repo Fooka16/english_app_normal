@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_daily_01",
+    "category": "daily",
+    "level": "beginner",
+    "japanese": "お腹すいた",
+    "correctEnglish": "I'm hungry.",
+    "choices": ["I'm hungry.", "I'm angry.", "I'm in a hurry."],
+    "explanation": "空腹を伝える基本の表現です。angry は発音が近いですが、意味は怒りです。",
+    "alternativeExpressions": ["I'm starving."]
+  },
+  {
+    "id": "conv_daily_02",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "ちょっとトイレ",
+    "correctEnglish": "I'm gonna run to the bathroom.",
+    "choices": ["I'm gonna run to the bathroom.", "I'm gonna run home.", "I'm gonna take a shower."],
+    "explanation": "少し席を外してトイレに行く、という自然な言い方です。家に走る、ではありません。",
+    "alternativeExpressions": ["Be right back."]
+  },
+  {
+    "id": "conv_daily_03",
+    "category": "daily",
+    "level": "beginner",
+    "japanese": "傘持った？",
+    "correctEnglish": "Did you bring an umbrella?",
+    "choices": ["Did you bring an umbrella?", "Did you bring a charger?", "Did the rain stop?"],
+    "explanation": "傘を持ってきたかを確認する質問です。雨が止んだか、とは別です。",
+    "alternativeExpressions": ["Got an umbrella?"]
+  },
+  {
+    "id": "conv_daily_04",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "充電切れた",
+    "correctEnglish": "My phone died.",
+    "choices": ["My phone died.", "My phone rang.", "My phone updated."],
+    "explanation": "バッテリーが切れてスマホが動かない、という口語です。電話が鳴った、ではありません。",
+    "alternativeExpressions": ["My battery died."]
+  },
+  {
+    "id": "conv_daily_05",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "アラーム鳴らなかった",
+    "correctEnglish": "My alarm didn't go off.",
+    "choices": ["My alarm didn't go off.", "My alarm was too loud.", "I turned the alarm off."],
+    "explanation": "セットしたアラームが鳴らなかった、という報告です。自分で止めた、とは違います。",
+    "alternativeExpressions": ["My alarm never went off."]
+  },
+  {
+    "id": "conv_daily_06",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "めんどくさい",
+    "correctEnglish": "It's a hassle.",
+    "choices": ["It's a hassle.", "It's a secret.", "It's a bargain."],
+    "explanation": "手間がかかってやりたくない、という気持ちです。秘密や掘り出し物ではありません。",
+    "alternativeExpressions": ["What a pain."]
+  },
+  {
+    "id": "conv_daily_07",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "先に行ってて",
+    "correctEnglish": "Go ahead without me.",
+    "choices": ["Go ahead without me.", "Wait here with me.", "Come back with me."],
+    "explanation": "自分を待たずに先に進んでほしいときの表現です。一緒に待って、とは反対です。",
+    "alternativeExpressions": ["Don't wait for me."]
+  },
+  {
+    "id": "conv_daily_08",
+    "category": "daily",
+    "level": "intermediate",
+    "japanese": "どっちでもいいよ",
+    "correctEnglish": "I'm good with either.",
+    "choices": ["I'm good with either.", "I don't want either.", "I already picked one."],
+    "explanation": "どちらを選んでも構わない、という譲り方です。どちらも要らない、とは違います。",
+    "alternativeExpressions": ["Either works for me."]
+  },
+  {
+    "id": "conv_daily_09",
+    "category": "daily",
+    "level": "beginner",
+    "japanese": "気をつけてね",
+    "correctEnglish": "Take care.",
+    "choices": ["Take care.", "Take your time.", "Take a seat."],
+    "explanation": "別れるときにかける「気をつけて」です。Take your time は「急がなくていい」なので、似て非なる表現です。",
+    "alternativeExpressions": ["Get home safe."]
+  },
+  {
+    "id": "conv_daily_10",
+    "category": "daily",
+    "level": "beginner",
+    "japanese": "じゃあね",
+    "correctEnglish": "See you later.",
+    "choices": ["See you later.", "See you tomorrow.", "Nice to see you."],
+    "explanation": "またあとで、という別れの挨拶です。明日と決めたわけではなく、会えてよかった、でもありません。",
+    "alternativeExpressions": ["Catch you later."]
+  }
+]

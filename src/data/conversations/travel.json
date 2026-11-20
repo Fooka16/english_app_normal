@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_travel_01",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "この電車、渋谷行きますか？",
+    "correctEnglish": "Does this train go to Shibuya?",
+    "choices": ["Does this train go to Shibuya?", "Does this train stop here?", "Is this the last train?"],
+    "explanation": "行き先を確認する質問です。この駅に止まるか、終電か、とは別です。",
+    "alternativeExpressions": ["Is this the train for Shibuya?"]
+  },
+  {
+    "id": "conv_travel_02",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "写真撮ってもらえる？",
+    "correctEnglish": "Could you take our picture?",
+    "choices": ["Could you take our picture?", "Could you watch our bags?", "Could you call a taxi?"],
+    "explanation": "知らない人に撮影を頼むときの丁寧な言い方です。一人なら my picture にもできます。",
+    "alternativeExpressions": ["Could you take my picture?"]
+  },
+  {
+    "id": "conv_travel_03",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "道に迷った",
+    "correctEnglish": "I got lost.",
+    "choices": ["I got lost.", "I got tired.", "I got a discount."],
+    "explanation": "道がわからなくなった状態です。get lost で「迷う」になります。",
+    "alternativeExpressions": ["I'm lost."]
+  },
+  {
+    "id": "conv_travel_04",
+    "category": "travel",
+    "level": "intermediate",
+    "japanese": "このへんのおすすめある？",
+    "correctEnglish": "Know any good places around here?",
+    "choices": ["Know any good places around here?", "Know what time it closes?", "Know where my hotel is?"],
+    "explanation": "近くの良い店や場所をカジュアルに聞く言い方です。主語の Do you を省いた会話の形です。",
+    "alternativeExpressions": ["Any recommendations around here?"]
+  },
+  {
+    "id": "conv_travel_05",
+    "category": "travel",
+    "level": "intermediate",
+    "japanese": "荷物預かってもらえる？",
+    "correctEnglish": "Can I leave my bag here?",
+    "choices": ["Can I leave my bag here?", "Can I buy a bag here?", "Can I weigh my bag here?"],
+    "explanation": "荷物をここに置いていいかを聞く表現です。買う、重さを量る、とは違います。",
+    "alternativeExpressions": ["Can you hold my bag?"]
+  },
+  {
+    "id": "conv_travel_06",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "何時まで開いてる？",
+    "correctEnglish": "What time do you close?",
+    "choices": ["What time do you close?", "Where is the exit?", "How much is admission?"],
+    "explanation": "閉店・閉館の時刻を聞く質問です。出口や料金の質問ではありません。",
+    "alternativeExpressions": ["What time do you stay open until?"]
+  },
+  {
+    "id": "conv_travel_07",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "予約してるんですが",
+    "correctEnglish": "I have a reservation.",
+    "choices": ["I have a reservation.", "I have a question.", "I have a coupon."],
+    "explanation": "店やホテルの受付で予約済みだと伝える決り文句です。",
+    "alternativeExpressions": ["I booked a table."]
+  },
+  {
+    "id": "conv_travel_08",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "英語話せますか？",
+    "correctEnglish": "Do you speak English?",
+    "choices": ["Do you speak English?", "Do you need a reservation?", "Do you take credit cards?"],
+    "explanation": "相手が英語を話せるかを確認する、そのままの質問です。",
+    "alternativeExpressions": ["Can you speak English?"]
+  },
+  {
+    "id": "conv_travel_09",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "これいくら？",
+    "correctEnglish": "How much is this?",
+    "choices": ["How much is this?", "How old is this?", "How heavy is this?"],
+    "explanation": "値段を聞く基本の質問です。how much は金額に使います。",
+    "alternativeExpressions": ["How much does this cost?"]
+  },
+  {
+    "id": "conv_travel_10",
+    "category": "travel",
+    "level": "beginner",
+    "japanese": "駅までどう行けばいい？",
+    "correctEnglish": "How do I get to the station?",
+    "choices": ["How do I get to the station?", "How big is the station?", "Who works at the station?"],
+    "explanation": "行き方を聞く定番です。大きさや、誰が働いているかではありません。",
+    "alternativeExpressions": ["Which way is the station?"]
+  }
+]

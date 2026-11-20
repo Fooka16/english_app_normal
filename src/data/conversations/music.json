@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_music_01",
+    "category": "music",
+    "level": "beginner",
+    "japanese": "この曲知ってる？",
+    "correctEnglish": "Do you know this song?",
+    "choices": ["Do you know this song?", "Do you own this album?", "Did you write this song?"],
+    "explanation": "相手がその曲を知っているかを聞く質問です。持っているか、作ったか、ではありません。",
+    "alternativeExpressions": ["Have you heard this song?"]
+  },
+  {
+    "id": "conv_music_02",
+    "category": "music",
+    "level": "beginner",
+    "japanese": "ライブ行きたい",
+    "correctEnglish": "I wanna go to the concert.",
+    "choices": ["I wanna go to the concert.", "I wanna leave the concert.", "I wanna sell my ticket."],
+    "explanation": "ライブに行きたいという希望です。途中で帰りたい、チケットを売りたい、とは違います。",
+    "alternativeExpressions": ["I want to see them live."]
+  },
+  {
+    "id": "conv_music_03",
+    "category": "music",
+    "level": "intermediate",
+    "japanese": "サビが好き",
+    "correctEnglish": "I love the chorus.",
+    "choices": ["I love the chorus.", "I love the intro.", "I missed the ending."],
+    "explanation": "曲のサビは chorus と言います。イントロやエンディングとは別の部分です。",
+    "alternativeExpressions": ["The chorus is my favorite part."]
+  },
+  {
+    "id": "conv_music_04",
+    "category": "music",
+    "level": "beginner",
+    "japanese": "チケット取れた！",
+    "correctEnglish": "I got tickets!",
+    "choices": ["I got tickets!", "I lost the tickets.", "The show is sold out."],
+    "explanation": "チケットを入手できたという報告です。売り切れは、取れなかったときの話です。",
+    "alternativeExpressions": ["I got in!"]
+  },
+  {
+    "id": "conv_music_05",
+    "category": "music",
+    "level": "intermediate",
+    "japanese": "一番前狙いたい",
+    "correctEnglish": "I wanna get up front.",
+    "choices": ["I wanna get up front.", "I wanna sit in the back.", "I wanna leave early."],
+    "explanation": "会場の前方に行きたい、というライブならではの言い方です。",
+    "alternativeExpressions": ["I wanna be in the front."]
+  },
+  {
+    "id": "conv_music_06",
+    "category": "music",
+    "level": "advanced",
+    "japanese": "アンコール来た！",
+    "correctEnglish": "They're doing an encore!",
+    "choices": ["They're doing an encore!", "They're canceling the show.", "They're still soundchecking."],
+    "explanation": "本編のあと、バンドがもう一回出てきた状態です。中止やリハーサルではありません。",
+    "alternativeExpressions": ["It's an encore!"]
+  },
+  {
+    "id": "conv_music_07",
+    "category": "music",
+    "level": "advanced",
+    "japanese": "このバンド神",
+    "correctEnglish": "This band is unreal.",
+    "choices": ["This band is unreal.", "This band is late.", "This band broke up."],
+    "explanation": "unreal はここでは「実在しない」ではなく、「信じられないくらい最高」というスラングです。",
+    "alternativeExpressions": ["This band is incredible."]
+  },
+  {
+    "id": "conv_music_08",
+    "category": "music",
+    "level": "intermediate",
+    "japanese": "歌詞がぐっとくる",
+    "correctEnglish": "The lyrics really hit me.",
+    "choices": ["The lyrics really hit me.", "The lyrics are hard to hear.", "I forgot the lyrics."],
+    "explanation": "歌詞が感情に響いた、という口語です。hit はここでは暴力ではなく「心に来る」です。",
+    "alternativeExpressions": ["The lyrics got me."]
+  },
+  {
+    "id": "conv_music_09",
+    "category": "music",
+    "level": "intermediate",
+    "japanese": "ペンライト忘れた",
+    "correctEnglish": "I forgot my light stick.",
+    "choices": ["I forgot my light stick.", "I forgot the tickets.", "I forgot the start time."],
+    "explanation": "ライブ用のペンライトは light stick と言います。チケットを忘れた、とは別です。",
+    "alternativeExpressions": ["I left my light stick at home."]
+  },
+  {
+    "id": "conv_music_10",
+    "category": "music",
+    "level": "beginner",
+    "japanese": "次の曲いこ",
+    "correctEnglish": "Can we do the next song?",
+    "choices": ["Can we do the next song?", "Can we stop the music?", "Can we repeat that one?"],
+    "explanation": "カラオケやセッションで次の曲に進む提案です。同じ曲をもう一度、ではありません。",
+    "alternativeExpressions": ["Next song?"]
+  }
+]

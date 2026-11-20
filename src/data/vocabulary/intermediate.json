@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "vocab_m_001",
+    "word": "actually",
+    "meaning": "実は",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Actually, I stayed home.",
+    "exampleJapanese": "実は家にいた。",
+    "choices": [
+      "実は",
+      "必ず",
+      "最近"
+    ]
+  },
+  {
+    "id": "vocab_m_002",
+    "word": "probably",
+    "meaning": "おそらく",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I'll probably stay in.",
+    "exampleJapanese": "おそらく家にいる。",
+    "choices": [
+      "おそらく",
+      "絶対に",
+      "昔は"
+    ]
+  },
+  {
+    "id": "vocab_m_003",
+    "word": "definitely",
+    "meaning": "絶対に",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I'll definitely come.",
+    "exampleJapanese": "絶対に行く。",
+    "choices": [
+      "絶対に",
+      "たぶん違う",
+      "たまに"
+    ]
+  },
+  {
+    "id": "vocab_m_004",
+    "word": "especially",
+    "meaning": "とりわけ",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I love fruit, especially mango.",
+    "exampleJapanese": "果物が好きで、とりわけマンゴーだ。",
+    "choices": [
+      "とりわけ",
+      "まったく",
+      "以前は"
+    ]
+  },
+  {
+    "id": "vocab_m_005",
+    "word": "recently",
+    "meaning": "最近",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I recently moved.",
+    "exampleJapanese": "最近引っ越した。",
+    "choices": [
+      "最近",
+      "昔からずっと",
+      "決して"
+    ]
+  },
+  {
+    "id": "vocab_m_006",
+    "word": "anyway",
+    "meaning": "とにかく",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Anyway, I should go.",
+    "exampleJapanese": "とにかく、もう行くね。",
+    "choices": [
+      "とにかく",
+      "その結果",
+      "たとえば"
+    ]
+  },
+  {
+    "id": "vocab_m_007",
+    "word": "instead",
+    "meaning": "代わりに",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Let's get tea instead.",
+    "exampleJapanese": "代わりにお茶にしよう。",
+    "choices": [
+      "代わりに",
+      "同じものを",
+      "以前から"
+    ]
+  },
+  {
+    "id": "vocab_m_008",
+    "word": "though",
+    "meaning": "だけど",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "It's small, though.",
+    "exampleJapanese": "小さいけどね。",
+    "choices": [
+      "だけど",
+      "なぜなら",
+      "たとえば"
+    ]
+  },
+  {
+    "id": "vocab_m_009",
+    "word": "notice",
+    "meaning": "見て気づく",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Did you notice the sign?",
+    "exampleJapanese": "その標識に気づいた？",
+    "choices": [
+      "見て気づく",
+      "無視する",
+      "修理する"
+    ]
+  },
+  {
+    "id": "vocab_m_010",
+    "word": "realize",
+    "meaning": "ふと自覚する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I didn't realize the time.",
+    "exampleJapanese": "時間だと気づかなかった。",
+    "choices": [
+      "ふと自覚する",
+      "約束する",
+      "配達する"
+    ]
+  },
+  {
+    "id": "vocab_m_011",
+    "word": "expect",
+    "meaning": "予想している",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I didn't expect you so soon.",
+    "exampleJapanese": "こんなに早いとは思っていなかった。",
+    "choices": [
+      "予想している",
+      "拒否する",
+      "翻訳する"
+    ]
+  },
+  {
+    "id": "vocab_m_012",
+    "word": "suggest",
+    "meaning": "提案する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I suggest we walk.",
+    "exampleJapanese": "歩こうと提案する。",
+    "choices": [
+      "提案する",
+      "命令する",
+      "隠す"
+    ]
+  },
+  {
+    "id": "vocab_m_013",
+    "word": "offer",
+    "meaning": "申し出る",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I can offer you a ride.",
+    "exampleJapanese": "車で送ろうか。",
+    "choices": [
+      "申し出る",
+      "拒否する",
+      "請求する"
+    ]
+  },
+  {
+    "id": "vocab_m_014",
+    "word": "agree",
+    "meaning": "賛成する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I agree with you.",
+    "exampleJapanese": "君に賛成だ。",
+    "choices": [
+      "賛成する",
+      "反対する",
+      "比較する"
+    ]
+  },
+  {
+    "id": "vocab_m_015",
+    "word": "refuse",
+    "meaning": "断る",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I refuse the invite.",
+    "exampleJapanese": "その誘いは断る。",
+    "choices": [
+      "断る",
+      "受け入れる",
+      "褒める"
+    ]
+  },
+  {
+    "id": "vocab_m_016",
+    "word": "accept",
+    "meaning": "受け入れる",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I accept your apology.",
+    "exampleJapanese": "謝罪を受け入れる。",
+    "choices": [
+      "受け入れる",
+      "拒否する",
+      "延期する"
+    ]
+  },
+  {
+    "id": "vocab_m_017",
+    "word": "admit",
+    "meaning": "認める",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I admit I was wrong.",
+    "exampleJapanese": "自分が悪かったと認める。",
+    "choices": [
+      "認める",
+      "隠す",
+      "自慢する"
+    ]
+  },
+  {
+    "id": "vocab_m_018",
+    "word": "complain",
+    "meaning": "文句を言う",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I don't mean to complain.",
+    "exampleJapanese": "文句を言いたいわけじゃない。",
+    "choices": [
+      "文句を言う",
+      "褒める",
+      "祝う"
+    ]
+  },
+  {
+    "id": "vocab_m_019",
+    "word": "apologize",
+    "meaning": "謝る",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I should apologize.",
+    "exampleJapanese": "謝った方がいい。",
+    "choices": [
+      "謝る",
+      "責める",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_m_020",
+    "word": "explain",
+    "meaning": "説明する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Let me explain.",
+    "exampleJapanese": "説明させて。",
+    "choices": [
+      "説明する",
+      "隠す",
+      "暗記する"
+    ]
+  },
+  {
+    "id": "vocab_m_021",
+    "word": "mention",
+    "meaning": "話題に出す",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Did she mention me?",
+    "exampleJapanese": "私の話を出した？",
+    "choices": [
+      "話題に出す",
+      "秘密にする",
+      "削除する"
+    ]
+  },
+  {
+    "id": "vocab_m_022",
+    "word": "promise",
+    "meaning": "約束する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I promise I'll be there.",
+    "exampleJapanese": "必ず行くと約束する。",
+    "choices": [
+      "約束する",
+      "拒否する",
+      "疑う"
+    ]
+  },
+  {
+    "id": "vocab_m_023",
+    "word": "pretend",
+    "meaning": "ふりをする",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Don't pretend you're fine.",
+    "exampleJapanese": "平気なふりをしないで。",
+    "choices": [
+      "ふりをする",
+      "認める",
+      "片付ける"
+    ]
+  },
+  {
+    "id": "vocab_m_024",
+    "word": "avoid",
+    "meaning": "避ける",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I avoid spicy food.",
+    "exampleJapanese": "辛いものは避ける。",
+    "choices": [
+      "避ける",
+      "好む",
+      "集める"
+    ]
+  },
+  {
+    "id": "vocab_m_025",
+    "word": "bother",
+    "meaning": "迷惑をかける",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Sorry to bother you.",
+    "exampleJapanese": "邪魔してごめん。",
+    "choices": [
+      "迷惑をかける",
+      "助ける",
+      "招待する"
+    ]
+  },
+  {
+    "id": "vocab_m_026",
+    "word": "worry",
+    "meaning": "心配する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Don't worry about it.",
+    "exampleJapanese": "そのことは心配しないで。",
+    "choices": [
+      "心配する",
+      "祝う",
+      "計測する"
+    ]
+  },
+  {
+    "id": "vocab_m_027",
+    "word": "regret",
+    "meaning": "後悔している",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I regret saying that.",
+    "exampleJapanese": "あんなこと言わなきゃよかった。",
+    "choices": [
+      "後悔している",
+      "誇る",
+      "計画する"
+    ]
+  },
+  {
+    "id": "vocab_m_028",
+    "word": "afford",
+    "meaning": "買う余裕がある",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I can't afford a new phone.",
+    "exampleJapanese": "新しいスマホを買う余裕がない。",
+    "choices": [
+      "買う余裕がある",
+      "無料でもらう",
+      "修理する"
+    ]
+  },
+  {
+    "id": "vocab_m_029",
+    "word": "borrow",
+    "meaning": "借りる",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Can I borrow a pen?",
+    "exampleJapanese": "ペンを借りていい？",
+    "choices": [
+      "借りる",
+      "貸す",
+      "売る"
+    ]
+  },
+  {
+    "id": "vocab_m_030",
+    "word": "lend",
+    "meaning": "貸す",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I'll lend you mine.",
+    "exampleJapanese": "僕のを貸すよ。",
+    "choices": [
+      "貸す",
+      "借りる",
+      "盗む"
+    ]
+  },
+  {
+    "id": "vocab_m_031",
+    "word": "spend",
+    "meaning": "費やす",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I spend an hour on the train.",
+    "exampleJapanese": "電車で1時間を費やす。",
+    "choices": [
+      "費やす",
+      "貯める",
+      "数える"
+    ]
+  },
+  {
+    "id": "vocab_m_032",
+    "word": "save",
+    "meaning": "貯める",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I save a little every month.",
+    "exampleJapanese": "毎月少し貯めている。",
+    "choices": [
+      "貯める",
+      "浪費する",
+      "借りる"
+    ]
+  },
+  {
+    "id": "vocab_m_033",
+    "word": "waste",
+    "meaning": "無駄にする",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Don't waste your time.",
+    "exampleJapanese": "時間を無駄にしないで。",
+    "choices": [
+      "無駄にする",
+      "大切にする",
+      "計測する"
+    ]
+  },
+  {
+    "id": "vocab_m_034",
+    "word": "share",
+    "meaning": "共有する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I'll share the photo.",
+    "exampleJapanese": "写真を共有するね。",
+    "choices": [
+      "共有する",
+      "隠す",
+      "削除する"
+    ]
+  },
+  {
+    "id": "vocab_m_035",
+    "word": "join",
+    "meaning": "参加する",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Want to join us?",
+    "exampleJapanese": "一緒に来ない？",
+    "choices": [
+      "参加する",
+      "脱退する",
+      "妨害する"
+    ]
+  },
+  {
+    "id": "vocab_m_036",
+    "word": "invite",
+    "meaning": "誘う",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I invite her every time.",
+    "exampleJapanese": "毎回彼女を誘う。",
+    "choices": [
+      "誘う",
+      "断る",
+      "雇う"
+    ]
+  },
+  {
+    "id": "vocab_m_037",
+    "word": "cancel",
+    "meaning": "取りやめる",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "They might cancel the meetup.",
+    "exampleJapanese": "集まりを取りやめるかもしれない。",
+    "choices": [
+      "取りやめる",
+      "予約する",
+      "延長する"
+    ]
+  },
+  {
+    "id": "vocab_m_038",
+    "word": "available",
+    "meaning": "都合がつく",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I'm available after five.",
+    "exampleJapanese": "5時以降なら空いている。",
+    "choices": [
+      "都合がつく",
+      "疲れている",
+      "高価な"
+    ]
+  },
+  {
+    "id": "vocab_m_039",
+    "word": "convenient",
+    "meaning": "都合がいい",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "Is tomorrow convenient?",
+    "exampleJapanese": "明日は都合がいい？",
+    "choices": [
+      "都合がいい",
+      "危険な",
+      "静かな"
+    ]
+  },
+  {
+    "id": "vocab_m_040",
+    "word": "extra",
+    "meaning": "追加の",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "Do you want extra ice?",
+    "exampleJapanese": "氷を追加にする？",
+    "choices": [
+      "追加の",
+      "不足した",
+      "最後の"
+    ]
+  },
+  {
+    "id": "vocab_m_041",
+    "word": "plenty",
+    "meaning": "たっぷり",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "We have plenty of time.",
+    "exampleJapanese": "時間はたっぷりある。",
+    "choices": [
+      "たっぷり",
+      "ほとんどない",
+      "禁止された"
+    ]
+  },
+  {
+    "id": "vocab_m_042",
+    "word": "barely",
+    "meaning": "かろうじて",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I barely made it.",
+    "exampleJapanese": "ぎりぎり間に合った。",
+    "choices": [
+      "かろうじて",
+      "余裕で",
+      "まったく"
+    ]
+  },
+  {
+    "id": "vocab_m_043",
+    "word": "exactly",
+    "meaning": "まさに",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Exactly, that's the point.",
+    "exampleJapanese": "まさにそこが要点だ。",
+    "choices": [
+      "まさに",
+      "だいたい",
+      "まったく別で"
+    ]
+  },
+  {
+    "id": "vocab_m_044",
+    "word": "roughly",
+    "meaning": "だいたい",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "It takes roughly an hour.",
+    "exampleJapanese": "だいたいいちじかんかかる。",
+    "choices": [
+      "だいたい",
+      "正確に",
+      "決して"
+    ]
+  },
+  {
+    "id": "vocab_m_045",
+    "word": "suddenly",
+    "meaning": "突然",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "It suddenly started raining.",
+    "exampleJapanese": "突然雨が降り出した。",
+    "choices": [
+      "突然",
+      "徐々に",
+      "予定どおり"
+    ]
+  },
+  {
+    "id": "vocab_m_046",
+    "word": "finally",
+    "meaning": "やっと",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I finally finished.",
+    "exampleJapanese": "やっと終わった。",
+    "choices": [
+      "やっと",
+      "最初に",
+      "めったに"
+    ]
+  },
+  {
+    "id": "vocab_m_047",
+    "word": "currently",
+    "meaning": "今現在",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I'm currently at the station.",
+    "exampleJapanese": "今駅にいる。",
+    "choices": [
+      "今現在",
+      "昔は",
+      "将来は"
+    ]
+  },
+  {
+    "id": "vocab_m_048",
+    "word": "lately",
+    "meaning": "このごろ",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I've been busy lately.",
+    "exampleJapanese": "このごろ忙しい。",
+    "choices": [
+      "このごろ",
+      "昔一度だけ",
+      "これからずっと"
+    ]
+  },
+  {
+    "id": "vocab_m_049",
+    "word": "anymore",
+    "meaning": "もう〜しない",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I don't go there anymore.",
+    "exampleJapanese": "もうそこには行かない。",
+    "choices": [
+      "もう〜しない",
+      "まだこれから",
+      "初めて"
+    ]
+  },
+  {
+    "id": "vocab_m_050",
+    "word": "appointment",
+    "meaning": "人との約束",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "I have a dentist appointment.",
+    "exampleJapanese": "歯医者の約束がある。",
+    "choices": [
+      "人との約束",
+      "処方箋",
+      "給料"
+    ]
+  },
+  {
+    "id": "vocab_m_051",
+    "word": "reservation",
+    "meaning": "席の予約",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "The reservation is under Sato.",
+    "exampleJapanese": "予約名は佐藤です。",
+    "choices": [
+      "席の予約",
+      "キャンセル料",
+      "領収書"
+    ]
+  },
+  {
+    "id": "vocab_m_052",
+    "word": "coworker",
+    "meaning": "同僚",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "A coworker covered for me.",
+    "exampleJapanese": "同僚が代わってくれた。",
+    "choices": [
+      "同僚",
+      "上司",
+      "お客さん"
+    ]
+  },
+  {
+    "id": "vocab_m_053",
+    "word": "shift",
+    "meaning": "勤務の時間帯",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "My shift starts at six.",
+    "exampleJapanese": "シフトは6時から。",
+    "choices": [
+      "勤務の時間帯",
+      "給料",
+      "休暇届"
+    ]
+  },
+  {
+    "id": "vocab_m_054",
+    "word": "salary",
+    "meaning": "給料",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "I get my salary on Friday.",
+    "exampleJapanese": "給料は金曜日にもらう。",
+    "choices": [
+      "給料",
+      "名刺",
+      "制服"
+    ]
+  },
+  {
+    "id": "vocab_m_055",
+    "word": "receipt",
+    "meaning": "レシート",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Can I get a receipt?",
+    "exampleJapanese": "レシートをもらえる？",
+    "choices": [
+      "レシート",
+      "釣り銭",
+      "商品棚"
+    ]
+  },
+  {
+    "id": "vocab_m_056",
+    "word": "discount",
+    "meaning": "割引",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Is there a student discount?",
+    "exampleJapanese": "学生割引はある？",
+    "choices": [
+      "割引",
+      "増税",
+      "在庫"
+    ]
+  },
+  {
+    "id": "vocab_m_057",
+    "word": "refund",
+    "meaning": "返金",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "I'd like a refund.",
+    "exampleJapanese": "返金してほしい。",
+    "choices": [
+      "返金",
+      "追加料金",
+      "予約"
+    ]
+  },
+  {
+    "id": "vocab_m_058",
+    "word": "delivery",
+    "meaning": "配達",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "The delivery is late.",
+    "exampleJapanese": "配達が遅れている。",
+    "choices": [
+      "配達",
+      "調理",
+      "会計"
+    ]
+  },
+  {
+    "id": "vocab_m_059",
+    "word": "flavor",
+    "meaning": "味の種類",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Which flavor do you want?",
+    "exampleJapanese": "どの味にする？",
+    "choices": [
+      "味の種類",
+      "値段",
+      "サイズ"
+    ]
+  },
+  {
+    "id": "vocab_m_060",
+    "word": "allergy",
+    "meaning": "アレルギー",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "I have a nut allergy.",
+    "exampleJapanese": "ナッツアレルギーがある。",
+    "choices": [
+      "アレルギー",
+      "好み",
+      "レシピ"
+    ]
+  },
+  {
+    "id": "vocab_m_061",
+    "word": "sleepy",
+    "meaning": "眠い",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I'm sleepy already.",
+    "exampleJapanese": "もう眠い。",
+    "choices": [
+      "眠い",
+      "元気だ",
+      "空腹だ"
+    ]
+  },
+  {
+    "id": "vocab_m_062",
+    "word": "thirsty",
+    "meaning": "のどが渇いた",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I'm really thirsty.",
+    "exampleJapanese": "すごくのどが渇いた。",
+    "choices": [
+      "のどが渇いた",
+      "満腹だ",
+      "忙しい"
+    ]
+  },
+  {
+    "id": "vocab_m_063",
+    "word": "headache",
+    "meaning": "頭痛",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "I have a headache.",
+    "exampleJapanese": "頭が痛い。",
+    "choices": [
+      "頭痛",
+      "腹痛",
+      "鼻水"
+    ]
+  },
+  {
+    "id": "vocab_m_064",
+    "word": "medicine",
+    "meaning": "薬",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Did you take your medicine?",
+    "exampleJapanese": "薬を飲んだ？",
+    "choices": [
+      "薬",
+      "食事",
+      "運動"
+    ]
+  },
+  {
+    "id": "vocab_m_065",
+    "word": "traffic",
+    "meaning": "渋滞",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Traffic was awful.",
+    "exampleJapanese": "渋滞がひどかった。",
+    "choices": [
+      "渋滞",
+      "天気",
+      "景色"
+    ]
+  },
+  {
+    "id": "vocab_m_066",
+    "word": "luggage",
+    "meaning": "荷物",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Where is my luggage?",
+    "exampleJapanese": "荷物はどこ？",
+    "choices": [
+      "荷物",
+      "切符",
+      "座席"
+    ]
+  },
+  {
+    "id": "vocab_m_067",
+    "word": "souvenir",
+    "meaning": "お土産",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "This souvenir is for you.",
+    "exampleJapanese": "このお土産は君に。",
+    "choices": [
+      "お土産",
+      "切符",
+      "地図"
+    ]
+  },
+  {
+    "id": "vocab_m_068",
+    "word": "habit",
+    "meaning": "習慣",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Checking my phone is a habit.",
+    "exampleJapanese": "スマホを見るのが習慣だ。",
+    "choices": [
+      "習慣",
+      "偶然",
+      "禁止"
+    ]
+  },
+  {
+    "id": "vocab_m_069",
+    "word": "reason",
+    "meaning": "理由",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "There's a reason I'm late.",
+    "exampleJapanese": "遅れたのには理由がある。",
+    "choices": [
+      "理由",
+      "結果",
+      "予定"
+    ]
+  },
+  {
+    "id": "vocab_m_070",
+    "word": "chance",
+    "meaning": "チャンス",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Give me one more chance.",
+    "exampleJapanese": "もう一回チャンスをちょうだい。",
+    "choices": [
+      "チャンス",
+      "罰",
+      "規則"
+    ]
+  },
+  {
+    "id": "vocab_m_071",
+    "word": "weekend",
+    "meaning": "週末",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Any plans for the weekend?",
+    "exampleJapanese": "週末の予定は？",
+    "choices": [
+      "週末",
+      "平日の朝",
+      "学期"
+    ]
+  },
+  {
+    "id": "vocab_m_072",
+    "word": "midnight",
+    "meaning": "真夜中",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "We talked until midnight.",
+    "exampleJapanese": "真夜中まで話した。",
+    "choices": [
+      "真夜中",
+      "正午",
+      "夕方"
+    ]
+  },
+  {
+    "id": "vocab_m_073",
+    "word": "customer",
+    "meaning": "お客さん",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "The customer is waiting.",
+    "exampleJapanese": "お客さんが待っている。",
+    "choices": [
+      "お客さん",
+      "店員",
+      "社長"
+    ]
+  },
+  {
+    "id": "vocab_m_074",
+    "word": "boss",
+    "meaning": "上司",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "My boss left early.",
+    "exampleJapanese": "上司は早退した。",
+    "choices": [
+      "上司",
+      "同僚",
+      "新人"
+    ]
+  },
+  {
+    "id": "vocab_m_075",
+    "word": "schedule",
+    "meaning": "スケジュール",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "My schedule is packed.",
+    "exampleJapanese": "予定がぎっしりだ。",
+    "choices": [
+      "スケジュール",
+      "給料",
+      "履歴書"
+    ]
+  },
+  {
+    "id": "vocab_m_076",
+    "word": "several",
+    "meaning": "いくつかの",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I have several ideas.",
+    "exampleJapanese": "考えがいくつかある。",
+    "choices": [
+      "いくつかの",
+      "ひとつだけ",
+      "ゼロ"
+    ]
+  },
+  {
+    "id": "vocab_m_077",
+    "word": "necessary",
+    "meaning": "必要な",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "A password is necessary.",
+    "exampleJapanese": "パスワードは必要だ。",
+    "choices": [
+      "必要な",
+      "不要な",
+      "危険な"
+    ]
+  },
+  {
+    "id": "vocab_m_078",
+    "word": "describe",
+    "meaning": "言葉で表す",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "Describe what happened.",
+    "exampleJapanese": "何があったか話して。",
+    "choices": [
+      "言葉で表す",
+      "隠す",
+      "暗記する"
+    ]
+  },
+  {
+    "id": "vocab_m_079",
+    "word": "mind",
+    "meaning": "気にする",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I don't mind waiting.",
+    "exampleJapanese": "待っても気にしない。",
+    "choices": [
+      "気にする",
+      "急ぐ",
+      "予約する"
+    ]
+  },
+  {
+    "id": "vocab_m_080",
+    "word": "care",
+    "meaning": "大切に思う",
+    "partOfSpeech": "動詞",
+    "level": "intermediate",
+    "example": "I care about you.",
+    "exampleJapanese": "君のことを大切に思っている。",
+    "choices": [
+      "大切に思う",
+      "忘れる",
+      "競争する"
+    ]
+  },
+  {
+    "id": "vocab_m_081",
+    "word": "delay",
+    "meaning": "遅れ",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "There's a delay on the train.",
+    "exampleJapanese": "電車に遅れが出ている。",
+    "choices": [
+      "遅れ",
+      "早着",
+      "増便"
+    ]
+  },
+  {
+    "id": "vocab_m_082",
+    "word": "platform",
+    "meaning": "駅のホーム",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "It's on platform two.",
+    "exampleJapanese": "2番線です。",
+    "choices": [
+      "駅のホーム",
+      "改札",
+      "売店"
+    ]
+  },
+  {
+    "id": "vocab_m_083",
+    "word": "scenery",
+    "meaning": "景色",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "The scenery was beautiful.",
+    "exampleJapanese": "景色がきれいだった。",
+    "choices": [
+      "景色",
+      "天気",
+      "切符"
+    ]
+  },
+  {
+    "id": "vocab_m_084",
+    "word": "memory",
+    "meaning": "思い出",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "That trip is a good memory.",
+    "exampleJapanese": "あの旅行はいい思い出だ。",
+    "choices": [
+      "思い出",
+      "予定",
+      "忘れ物"
+    ]
+  },
+  {
+    "id": "vocab_m_085",
+    "word": "full",
+    "meaning": "満腹だ",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I'm full, thanks.",
+    "exampleJapanese": "もうお腹いっぱいです。",
+    "choices": [
+      "満腹だ",
+      "まだ空腹だ",
+      "お金がない"
+    ]
+  },
+  {
+    "id": "vocab_m_086",
+    "word": "sick",
+    "meaning": "具合が悪い",
+    "partOfSpeech": "形容詞",
+    "level": "intermediate",
+    "example": "I feel sick.",
+    "exampleJapanese": "気分が悪い。",
+    "choices": [
+      "具合が悪い",
+      "元気だ",
+      "忙しい"
+    ]
+  },
+  {
+    "id": "vocab_m_087",
+    "word": "order",
+    "meaning": "注文",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "That's not my order.",
+    "exampleJapanese": "それは私の注文と違う。",
+    "choices": [
+      "注文",
+      "会計",
+      "座席"
+    ]
+  },
+  {
+    "id": "vocab_m_088",
+    "word": "couple",
+    "meaning": "2、3の",
+    "partOfSpeech": "名詞",
+    "level": "intermediate",
+    "example": "Give me a couple of minutes.",
+    "exampleJapanese": "2、3分ちょうだい。",
+    "choices": [
+      "2、3の",
+      "何十もの",
+      "ゼロ"
+    ]
+  },
+  {
+    "id": "vocab_m_089",
+    "word": "yet",
+    "meaning": "まだ〜していない",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I'm not ready yet.",
+    "exampleJapanese": "まだ準備できていない。",
+    "choices": [
+      "まだ〜していない",
+      "もう終わった",
+      "決して"
+    ]
+  },
+  {
+    "id": "vocab_m_090",
+    "word": "seriously",
+    "meaning": "本気で",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Seriously, are you okay?",
+    "exampleJapanese": "本気で聞くけど、大丈夫？",
+    "choices": [
+      "本気で",
+      "冗談として",
+      "静かに"
+    ]
+  },
+  {
+    "id": "vocab_m_091",
+    "word": "totally",
+    "meaning": "すっかり",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I totally forgot.",
+    "exampleJapanese": "すっかり忘れていた。",
+    "choices": [
+      "すっかり",
+      "少しだけ",
+      "予定どおり"
+    ]
+  },
+  {
+    "id": "vocab_m_092",
+    "word": "honestly",
+    "meaning": "正直に言うと",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Honestly, I'm nervous.",
+    "exampleJapanese": "正直、緊張している。",
+    "choices": [
+      "正直に言うと",
+      "冗談で",
+      "秘密で"
+    ]
+  },
+  {
+    "id": "vocab_m_093",
+    "word": "hopefully",
+    "meaning": "うまくいけば",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Hopefully it clears up.",
+    "exampleJapanese": "晴れるといいな。",
+    "choices": [
+      "うまくいけば",
+      "残念ながら確定で",
+      "絶対に無理で"
+    ]
+  },
+  {
+    "id": "vocab_m_094",
+    "word": "obviously",
+    "meaning": "明らかに",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "Obviously, I was wrong.",
+    "exampleJapanese": "明らかに私が悪かった。",
+    "choices": [
+      "明らかに",
+      "ひそかに",
+      "偶然"
+    ]
+  },
+  {
+    "id": "vocab_m_095",
+    "word": "simply",
+    "meaning": "単に",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I simply forgot.",
+    "exampleJapanese": "ただ忘れただけ。",
+    "choices": [
+      "単に",
+      "複雑に",
+      "計画的に"
+    ]
+  },
+  {
+    "id": "vocab_m_096",
+    "word": "nearly",
+    "meaning": "ほぼ",
+    "partOfSpeech": "副詞",
+    "level": "intermediate",
+    "example": "I'm nearly done.",
+    "exampleJapanese": "ほぼ終わった。",
+    "choices": [
+      "ほぼ",
+      "まったく",
+      "始めたばかり"
+    ]
+  },
+  {
+    "id": "vocab_m_097",
+    "word": "during",
+    "meaning": "〜の間に",
+    "partOfSpeech": "前置詞",
+    "level": "intermediate",
+    "example": "I fell asleep during the movie.",
+    "exampleJapanese": "映画の間に寝てしまった。",
+    "choices": [
+      "〜の間に",
+      "〜の前に",
+      "〜なしで"
+    ]
+  },
+  {
+    "id": "vocab_m_098",
+    "word": "without",
+    "meaning": "〜なしで",
+    "partOfSpeech": "前置詞",
+    "level": "intermediate",
+    "example": "I left without my phone.",
+    "exampleJapanese": "スマホを持たずに出た。",
+    "choices": [
+      "〜なしで",
+      "〜と一緒に",
+      "〜のために"
+    ]
+  },
+  {
+    "id": "vocab_m_099",
+    "word": "toward",
+    "meaning": "〜のほうへ",
+    "partOfSpeech": "前置詞",
+    "level": "intermediate",
+    "example": "Walk toward the station.",
+    "exampleJapanese": "駅の方へ歩いて。",
+    "choices": [
+      "〜のほうへ",
+      "〜から離れて",
+      "〜の中で"
+    ]
+  },
+  {
+    "id": "vocab_m_100",
+    "word": "inside",
+    "meaning": "〜の中に",
+    "partOfSpeech": "前置詞",
+    "level": "intermediate",
+    "example": "The keys are inside the bag.",
+    "exampleJapanese": "鍵はかばんの中だ。",
+    "choices": [
+      "〜の中に",
+      "〜の外に",
+      "〜の上に"
+    ]
+  }
+]

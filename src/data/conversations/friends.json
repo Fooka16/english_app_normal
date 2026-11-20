@@ -1,0 +1,102 @@
+[
+  {
+    "id": "conv_friends_01",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "今何してるん？",
+    "correctEnglish": "What are you doing?",
+    "choices": ["What do you do?", "What are you doing?", "What did you do?"],
+    "explanation": "今この瞬間に何をしているかを聞く言い方です。What do you do? は職業を聞くときに使います。",
+    "alternativeExpressions": ["What are you up to?"]
+  },
+  {
+    "id": "conv_friends_02",
+    "category": "friends",
+    "level": "intermediate",
+    "japanese": "それな！",
+    "correctEnglish": "I know, right?",
+    "choices": ["I know, right?", "That's all I have.", "I'll take that one."],
+    "explanation": "相手の話に「本当にそれ！」と乗っかる相づちです。直訳ではなく、会話のノリで使います。",
+    "alternativeExpressions": ["Exactly!"]
+  },
+  {
+    "id": "conv_friends_03",
+    "category": "friends",
+    "level": "intermediate",
+    "japanese": "マジで？",
+    "correctEnglish": "For real?",
+    "choices": ["For real?", "Is that your job?", "Did you finish already?"],
+    "explanation": "驚きをカジュアルに返す短い表現です。Are you serious? とも言えます。",
+    "alternativeExpressions": ["Are you serious?", "No way."]
+  },
+  {
+    "id": "conv_friends_04",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "ちょっと待って",
+    "correctEnglish": "Hold on a sec.",
+    "choices": ["Hold on a sec.", "I'll be there soon.", "Let's start now."],
+    "explanation": "相手の話や行動を少し止めてほしいときの自然な言い方です。",
+    "alternativeExpressions": ["Give me a second."]
+  },
+  {
+    "id": "conv_friends_05",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "今どこ？",
+    "correctEnglish": "Where are you?",
+    "choices": ["Where are you?", "Where are you from?", "Where did you go?"],
+    "explanation": "相手が今いる場所を聞く表現です。Where are you from? は出身を聞くときに使います。",
+    "alternativeExpressions": ["Where are you at?"]
+  },
+  {
+    "id": "conv_friends_06",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "めっちゃ眠い",
+    "correctEnglish": "I'm so sleepy.",
+    "choices": ["I'm so sleepy.", "I slept for hours.", "I'm going out tonight."],
+    "explanation": "今の眠気を伝える言い方です。よく寝た、という過去の話ではありません。",
+    "alternativeExpressions": ["I'm about to pass out."]
+  },
+  {
+    "id": "conv_friends_07",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "今日ひま？",
+    "correctEnglish": "Are you free today?",
+    "choices": ["Are you free today?", "Are you done for today?", "Are you working today?"],
+    "explanation": "今日会えるかどうか、予定が空いているかを聞く表現です。",
+    "alternativeExpressions": ["You free today?"]
+  },
+  {
+    "id": "conv_friends_08",
+    "category": "friends",
+    "level": "intermediate",
+    "japanese": "あとで連絡するね",
+    "correctEnglish": "I'll text you later.",
+    "choices": ["I'll text you later.", "I'll see you later.", "I'll decide later."],
+    "explanation": "友達同士なら、連絡はメッセージを想定して text と言うことが多いです。電話なら I'll call you later. です。",
+    "alternativeExpressions": ["I'll call you later."]
+  },
+  {
+    "id": "conv_friends_09",
+    "category": "friends",
+    "level": "beginner",
+    "japanese": "ごめん、遅れそう",
+    "correctEnglish": "Sorry, I'm gonna be late.",
+    "choices": ["Sorry, I'm gonna be late.", "Sorry, I left early.", "Sorry, I missed the call."],
+    "explanation": "これから遅れると先に伝える言い方です。gonna は going to のくだけた形です。",
+    "alternativeExpressions": ["Sorry, running late."]
+  },
+  {
+    "id": "conv_friends_10",
+    "category": "friends",
+    "level": "intermediate",
+    "japanese": "何食べる？",
+    "correctEnglish": "What do you wanna eat?",
+    "choices": ["What do you wanna eat?", "What are you eating?", "What did you eat?"],
+    "explanation": "これから何にするかを聞く表現です。What are you eating? は今食べているものを聞くときに使います。",
+    "alternativeExpressions": ["What are you in the mood for?"]
+  }
+]
