@@ -9,6 +9,8 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  # ブランチ公開（Jekyll）から Actions 公開へ切り替えるために必要。
+  administration: write
 
 concurrency:
   group: pages
@@ -59,6 +61,26 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # main を Jekyll で出すと、ビルド前の index.html が公開され画面が真っ白になる。
+      - name: Use GitHub Actions as the Pages source
+        id: pages-source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          api="https://api.github.com/repos/${{ github.repository }}/pages"
+          hdr=(-H "Authorization: Bearer ${GH_TOKEN}" -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28")
+          if curl -fsS "${hdr[@]}" "$api" | grep -Eq '"build_type":[[:space:]]*"workflow"'; then
+            echo "switched=false" >> "$GITHUB_OUTPUT"
+          else
+            curl -fsS -X PUT "${hdr[@]}" "$api" -d '{"build_type":"workflow"}'
+            echo "switched=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 切り替え前に走った Jekyll の公開が、ビルド結果を上書きしないように待つ。
+      - name: Wait out the in-flight branch build
+        if: steps.pages-source.outputs.switched == 'true'
+        run: sleep 50
+
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
